@@ -523,7 +523,7 @@ figure.art figcaption strong { color: var(--ink); font-style: normal; font-weigh
   margin-top: 26px;
   padding: 22px 26px;
   background: var(--paper);
-  border: 1px solid var(--gold-soft);
+  border: 1px solid var(--orange-soft);
   border-radius: var(--radius);
   display: none;
   text-align: center;
@@ -702,7 +702,7 @@ figure.art figcaption strong { color: var(--ink); font-style: normal; font-weigh
 .lightbox-caption {
   margin-top: 18px;
   color: #e8dcc4;
-  font-family: var(--serif);
+  font-family: var(--sans-serif);
   font-style: italic;
   font-size: 15px;
   text-align: center;
@@ -785,7 +785,7 @@ figure.art img:hover { transform: scale(1.005); }
 .hotspot-popover.show { display: block; }
 .hotspot-popover .hp-label {
   font-family: var(--serif);
-  font-weight: 600;
+  font-weight: 650;
   color: var(--accent-deep);
   font-size: 16px;
   margin-bottom: 4px;
