@@ -1,0 +1,415 @@
+{
+  "id": "02-barokko",
+  "number": 2,
+  "title": "The Italian Baroque and the Invention of Cinematic Lighting",
+  "reading_time": "~12 min read",
+
+  "era": {
+    "heading": "The era",
+    "label_en": "Italian Baroque, c. 1600–1750",
+    "body": [
+      "Picture the door of a small Roman church in the year 1601. You step inside expecting the calm, even light of a Renaissance fresco. Instead, you see a dark room where a thin shaft of light cuts across the wall like a stage spotlight, falling on the dirty feet of an apostle and on the half-open mouth of a tax collector. The figures lean inward, urgent and physical. The saints look like people from your own street. Welcome to the [[Baroque]].",
+      "The [[Baroque]] is the dramatic, theatrical style that dominated European art from roughly 1600 to 1750. It was born in Rome as a deliberate response to a crisis. In 1517, the German monk Martin Luther had nailed his protests to a church door in Wittenberg and started the [[Protestant Reformation]]. Within a generation, much of Northern Europe broke from Rome. Catholic membership was bleeding. The Church needed to fight back, and one of its sharpest weapons turned out to be art.",
+      "Between 1545 and 1563, the [[Council of Trent]] held a long strategic meeting in northern Italy and issued instructions to its artists. Religious painting, the Council ruled, must no longer be cool and elite. It must move ordinary people emotionally. It must be clear, dramatic, easy to read at a glance, almost theatrical. It must convert. This was the artistic mission statement of the [[Counter-Reformation]], and it amounted to a complete reversal of the calm perfection prized by the High Renaissance.",
+      "Enter [[Caravaggio]]. Born Michelangelo Merisi in 1571 in a small town near Milan, he was violent, brilliant, alcoholic, and impossible. In a fifteen-year career he single-handedly invented what we now call Baroque painting. He moved to Rome around 1592, worked for cardinals during the day, and got into knife fights in taverns at night. In 1606 he killed a man during a dispute over a tennis match and spent the rest of his life on the run. He died in 1610, age 38, of fever on a beach near Naples.",
+      "What Caravaggio did was simple to describe and revolutionary in effect. He painted Bible scenes as if they were happening *right now*, in the kind of dim Roman room he himself lived in, using real Roman street people as models. His saints have weather-beaten faces. His Marys look like the baker's wife. His light is harsh, theatrical, single-source. After Caravaggio, painting in every Catholic country changed within a generation. [[Artemisia Gentileschi]] in Italy, Peter Paul Rubens in Flanders, Diego Velázquez in Spain, and Rembrandt van Rijn in the Netherlands all worked downstream of him. They are collectively called the [[Caravaggisti]].",
+      "The Baroque was not just a Catholic phenomenon. Protestant Holland developed a quieter, domestic version of it. Royal courts in France and Spain wanted dramatic spectacle in their portraits. By the time the style ran out of steam around 1750, it had touched everything from the gigantic interior of St Peter's Basilica to the small genre scenes hanging on the walls of Dutch merchants. Its central tool — the single fierce light cutting through deep shadow — became one of the most influential ideas in Western image-making. Today, every film noir frame, every theatre stage lit by a single beam, every dramatic Instagram portrait is a descendant of what Caravaggio invented in a dark chapel in Rome."
+    ],
+    "pull_quote": "The Baroque didn't want to be admired. It wanted to make you fall to your knees.",
+    "figure": {
+      "src": "assets/sessions/02/calling-of-matthew.jpg",
+      "alt": "Caravaggio, The Calling of Saint Matthew",
+      "artist": "Caravaggio",
+      "title": "The Calling of Saint Matthew",
+      "year": "1599–1600",
+      "location": "Contarelli Chapel, San Luigi dei Francesi, Rome",
+      "note": "The painting that launched the Baroque. A Roman gambling room, a shaft of light, and an outstretched hand."
+    }
+  },
+
+  "genre": {
+    "heading": "The genre",
+    "name_en": "Religious narrative painting",
+    "body": [
+      "[[Religious narrative painting]] is just what its name suggests: a single still image that tells one moment from a Bible story or a saint's life. The genre is ancient — medieval churches were covered in it — but the Baroque approach to it was completely new.",
+      "Where a Renaissance Annunciation showed Mary calmly receiving the Angel Gabriel inside a clean architectural space, a Baroque Annunciation catches her at the exact millisecond she reacts. Her hand is half-raised. Her eyes are widening. The angel's robes are still moving from the speed of his descent. The Renaissance painting describes a holy event. The Baroque painting *makes the event happen to the viewer*.",
+      "Five unwritten rules govern almost every Baroque religious painting you'll see.",
+      "**Rule one: pick the most dramatic moment.** Don't paint the calm aftermath of a miracle. Paint the instant the sword falls, the lightning strikes, the saint collapses to his knees. The Renaissance preferred the peaceful conclusion. The Baroque preferred the second of impact.",
+      "**Rule two: use real, ordinary, often visibly poor models.** A Baroque saint is not a Greek statue. A Baroque saint is a labourer in his Sunday clothes. Caravaggio scandalised one early patron by painting the Virgin Mary using a local prostitute as a model. He wanted his Marys to feel like someone you could meet in the street tomorrow morning.",
+      "**Rule three: one dramatic light source.** Light enters the scene from a single hidden point, falling like a stage spotlight on the most important face, hand, or action. The rest of the painting drops away into shadow. This is theatre lighting, two hundred years before electricity.",
+      "**Rule four: compose on diagonals.** Don't put figures upright in formal poses. Tilt them. Make their bodies and gestures lean in long diagonal lines that pull the eye through the picture from one corner to another. A diagonal is the visual signature of *something happening right now*.",
+      "**Rule five: break the fourth wall.** Often one figure in the scene looks directly out at the viewer, or a hand extends across the picture plane into our space. The viewer is no longer watching the scene from a polite distance. The viewer is a witness, expected to respond."
+    ],
+    "gallery": [
+      {
+        "src": "assets/sessions/02/caravaggio-judith.jpg",
+        "alt": "Caravaggio, Judith Beheading Holofernes",
+        "artist": "Caravaggio",
+        "title": "Judith Beheading Holofernes",
+        "year": "c. 1599",
+        "location": "Palazzo Barberini, Rome",
+        "note": "The Old Testament story of Judith killing the enemy general Holofernes. Caravaggio paints the act itself — not before, not after."
+      },
+      {
+        "src": "assets/sessions/02/conversion-of-paul.jpg",
+        "alt": "Caravaggio, The Conversion of Saint Paul",
+        "artist": "Caravaggio",
+        "title": "The Conversion of Saint Paul",
+        "year": "c. 1601",
+        "location": "Santa Maria del Popolo, Rome",
+        "note": "Saul, on his way to Damascus, is knocked off his horse by a vision of Christ. Caravaggio shows him sprawled on the ground, dazzled, arms thrown wide."
+      },
+      {
+        "src": "assets/sessions/02/artemisia-judith.jpg",
+        "alt": "Artemisia Gentileschi, Judith Slaying Holofernes",
+        "artist": "Artemisia Gentileschi",
+        "title": "Judith Slaying Holofernes",
+        "year": "c. 1620",
+        "location": "Uffizi, Florence",
+        "note": "Artemisia, who as a teenager had been raped by her teacher and won a public trial against him, paints the same subject as Caravaggio but with terrifying focus and physical strength."
+      },
+      {
+        "src": "assets/sessions/02/supper-at-emmaus.jpg",
+        "alt": "Caravaggio, Supper at Emmaus",
+        "artist": "Caravaggio",
+        "title": "Supper at Emmaus",
+        "year": "1601",
+        "location": "National Gallery, London",
+        "note": "Two disciples realise that the stranger eating with them is the resurrected Christ. One of them flings his hand out across the table — directly into our space."
+      },
+      {
+        "src": "assets/sessions/02/doubting-thomas.jpg",
+        "alt": "Caravaggio, The Incredulity of Saint Thomas",
+        "artist": "Caravaggio",
+        "title": "The Incredulity of Saint Thomas",
+        "year": "c. 1601–1602",
+        "location": "Sanssouci, Potsdam",
+        "note": "The apostle Thomas refused to believe in the resurrection until he could touch Christ's wound. Caravaggio paints the finger entering the wound."
+      }
+    ],
+    "outro": [
+      "These five paintings share a vocabulary. Each picks the most dramatic instant of its story. Each uses ordinary-looking models with weathered faces and dirty hands. Each is lit by one fierce source coming from outside the frame. Each is composed along powerful diagonals. Each makes the viewer feel close enough to touch the scene. Once you've seen this vocabulary, you'll recognise it everywhere — in Rembrandt, in Velázquez, even in the lighting of modern cinema."
+    ]
+  },
+
+  "elements": {
+    "heading": "Five micro-elements",
+    "label_en": "The visual alphabet",
+    "intro": "Now we tighten the focus. These five techniques and habits show up again and again in Baroque religious paintings. Once you've learned to spot them, you'll be able to *read* any Caravaggio in roughly thirty seconds.",
+    "items": [
+      {
+        "name": "Chiaroscuro",
+        "name_en": "chiaroscuro",
+        "meaning": "Italian for *light–dark*. Extreme contrast between bright and shadowed areas, used to model form and create theatrical drama.",
+        "body": [
+          "Every painting since the Stone Age has used some form of light and shadow. What makes [[chiaroscuro]] specifically *Baroque* is its extremity. Renaissance painters wanted light to spread evenly across the picture, so that the world looked calmly lit and intelligible. Baroque painters wanted the light of a film noir interrogation room.",
+          "Chiaroscuro is the painter's version of stage lighting. A bright zone shows the action; the rest dissolves into darkness. The eye has no choice. It locks onto the lit part.",
+          "Caravaggio took this principle further than anyone before or since. His brightest highlights and his deepest shadows often sit only a few centimetres apart on the canvas. The transition is brutal, like turning on a flashlight in a dark room. The drama is immediate."
+        ],
+        "figure": {
+          "src": "assets/sessions/02/doubting-thomas.jpg",
+          "alt": "Caravaggio, The Incredulity of Saint Thomas — detail",
+          "artist": "Caravaggio",
+          "title": "The Incredulity of Saint Thomas (detail)",
+          "year": "c. 1601–1602",
+          "location": "Sanssouci, Potsdam",
+          "note": "The wound on Christ's side is the brightest point in the painting. Everything else is in shadow."
+        }
+      },
+      {
+        "name": "Tenebrism",
+        "name_en": "tenebrism",
+        "meaning": "Chiaroscuro taken to its extreme. Deep shadow dominates most of the canvas; only the central action is lit.",
+        "body": [
+          "If chiaroscuro is the technique, [[tenebrism]] is the dialect Caravaggio invented from it. The Italian word comes from *tenebroso*, meaning *gloomy* or *dark*. In a tenebrist painting, up to seventy per cent of the canvas may be near-black. The figures emerge from this darkness as if from a void.",
+          "What does tenebrism do to your perception? It strips out place. You can no longer tell what kind of room the scene is happening in, or where the doors and windows are. The action is isolated. It is no longer a story unfolding *somewhere*; it is a story happening *in the dark*, in the same place as your own dreams.",
+          "Tenebrism was so distinctive that it became a kind of trademark. When you see a painting that is mostly black with a single small bright island of figures, you are looking at the influence of Caravaggio, no matter who actually held the brush."
+        ],
+        "figure": {
+          "src": "assets/sessions/02/artemisia-judith.jpg",
+          "alt": "Artemisia Gentileschi, Judith Slaying Holofernes — tenebrism",
+          "artist": "Artemisia Gentileschi",
+          "title": "Judith Slaying Holofernes (detail)",
+          "year": "c. 1620",
+          "location": "Uffizi, Florence",
+          "note": "The background is featureless black. We have no idea where this is happening, which makes the action feel more intimate, more terrible."
+        }
+      },
+      {
+        "name": "Diagonal composition",
+        "name_en": "diagonal composition",
+        "meaning": "Figures, light, and movement arranged along diagonal axes. The opposite of the calm Renaissance pyramid.",
+        "body": [
+          "Think back to Session 1. Renaissance painters loved pyramidal compositions because they read as stable, monumental, eternal. A figure inside a triangle is not going anywhere.",
+          "The Baroque does the opposite. It composes on [[diagonal composition|diagonals]], because a diagonal line through a picture is the visual signature of *time in motion*. A figure tilted off vertical is mid-fall. A shaft of light cutting across the canvas is mid-flicker. A sword swung at forty-five degrees has not yet finished its arc.",
+          "Look at Caravaggio's *Conversion of Saint Paul* (in the gallery above). Saul lies sprawled across the bottom of the canvas on a strong diagonal, arms thrown wide. The horse looms over him on another diagonal. The result is a moment caught in mid-second. You arrive in the picture just after the lightning has struck and just before he gets up."
+        ],
+        "figure": {
+          "src": "assets/sessions/02/conversion-of-paul.jpg",
+          "alt": "Caravaggio, Conversion of Saint Paul — diagonal composition",
+          "artist": "Caravaggio",
+          "title": "The Conversion of Saint Paul (detail)",
+          "year": "c. 1601",
+          "location": "Santa Maria del Popolo, Rome",
+          "note": "Notice the strong diagonal of Saul's body, his outstretched arms, and the horse's leg. Nothing in the painting is vertical."
+        }
+      },
+      {
+        "name": "Naturalism",
+        "name_en": "lowlife realism",
+        "meaning": "Sacred figures painted as ordinary, weather-beaten, often visibly poor real people, rather than idealised classical figures.",
+        "body": [
+          "Renaissance painters smoothed every face into a version of a Greek statue. Caravaggio refused. His apostles have calloused hands and dirt under their fingernails. His Marys have the tired faces of women from his own neighbourhood. His Christ has a labourer's torso, not the body of a marble god.",
+          "This deliberate [[naturalism]] caused real arguments at the time. One of Caravaggio's most famous paintings, *The Death of the Virgin*, was rejected by its first patron because the Madonna's body looked swollen and unidealised — there was a rumour, possibly true, that Caravaggio had used a drowned local prostitute as the model. The painting was bought instead by the Duke of Mantua, on the advice of a young Peter Paul Rubens, who recognised exactly what Caravaggio had done.",
+          "The effect of naturalism is psychological, not stylistic. When the figures in a sacred scene look like real, ordinary people, the story feels like it might really have happened. Caravaggio's saints are not perfect. They are *believable*. And believable, in religious art, is far more powerful than perfect."
+        ],
+        "figure": {
+          "src": "assets/sessions/02/caravaggio-judith.jpg",
+          "alt": "Caravaggio, Judith Beheading Holofernes — naturalism",
+          "artist": "Caravaggio",
+          "title": "Judith Beheading Holofernes (detail)",
+          "year": "c. 1599",
+          "location": "Palazzo Barberini, Rome",
+          "note": "Judith is no warrior goddess. She is a young woman doing terrible, awkward physical work. Her face shows the strain."
+        }
+      },
+      {
+        "name": "Direct gaze",
+        "name_en": "fourth-wall break",
+        "meaning": "One figure looks out at the viewer, or extends a hand across the picture plane. The viewer is pulled into the scene.",
+        "body": [
+          "Before Caravaggio, almost every figure in a religious painting was looking at another figure inside the picture, or down at the ground in prayer. The scene was sealed off from us. We watched it from the safe distance of a museum visitor.",
+          "Caravaggio broke that seal. In painting after painting, at least one figure looks directly out at us, or a hand reaches over the front edge of the picture into our space. Suddenly we are no longer spectators. We are inside the story. The painting is asking us a question. Would you have followed Christ if he had pointed at you? Would you have believed Thomas if you had seen the wound yourself? This trick — the [[fourth wall|breaking of the fourth wall]] — was the most psychologically aggressive thing painting could do in 1600.",
+          "It also has a deeper purpose. The Council of Trent had asked painters to convert viewers, not just inform them. Direct gaze is conversion in visual form. Once a saint has looked you in the eye, you cannot pretend you weren't there."
+        ],
+        "figure": {
+          "src": "assets/sessions/02/supper-at-emmaus.jpg",
+          "alt": "Caravaggio, Supper at Emmaus — fourth wall",
+          "artist": "Caravaggio",
+          "title": "Supper at Emmaus (detail)",
+          "year": "1601",
+          "location": "National Gallery, London",
+          "note": "The apostle on the right flings his arm out toward us. His hand seems to come through the painting into the gallery space."
+        }
+      }
+    ]
+  },
+
+  "masterpiece": {
+    "heading": "Deep dive: the Calling of Saint Matthew",
+    "title": "The Calling of Saint Matthew",
+    "artist": "Caravaggio",
+    "year": "1599–1600",
+    "location": "Contarelli Chapel, San Luigi dei Francesi, Rome",
+    "label_first_impression": "First impression",
+    "label_hidden_narrative": "The hidden story",
+    "label_technical_magic": "Technical magic",
+    "label_so_what": "Why it still matters",
+    "figure": {
+      "src": "assets/sessions/02/calling-of-matthew.jpg",
+      "alt": "Caravaggio, The Calling of Saint Matthew (full painting)",
+      "artist": "Caravaggio",
+      "title": "The Calling of Saint Matthew",
+      "year": "1599–1600",
+      "location": "Contarelli Chapel, San Luigi dei Francesi, Rome",
+      "note": "Oil on canvas, 322 × 340 cm. Roughly three metres tall. The painting that announced the Baroque to Europe."
+    },
+    "hotspots": [
+      { "x": 0.75, "y": 0.32, "label": "Christ's hand",       "note": "The pose is taken directly from Michelangelo's *Creation of Adam* on the Sistine ceiling — but mirror-reversed. Anyone in Rome who knew the ceiling would have read the quotation: *this is the new Creation, the new Adam being called.*" },
+      { "x": 0.78, "y": 0.18, "label": "The light",           "note": "It enters from a hidden source in the upper right, falling along the same diagonal as Christ's pointing hand. The light is not a separate fact about the scene — it is *what Christ is pointing*." },
+      { "x": 0.45, "y": 0.48, "label": "Who is Matthew?",     "note": "The bearded man at centre touches his own chest as if to ask *me?* Most viewers assume he's Matthew. But some scholars now read the painting differently — see the next hotspot." },
+      { "x": 0.18, "y": 0.78, "label": "The other Matthew?",  "note": "The young man at the far left, bent over the coins. He hasn't even noticed Christ yet. If he is Matthew, then Christ is pointing at someone who doesn't yet know he's been called — and the viewer is the only witness to the call arriving." },
+      { "x": 0.40, "y": 0.72, "label": "Two centuries meet",  "note": "The tax collectors wear 1590s Roman fashion: feathered hats, slashed sleeves. Christ and Peter, on the right, wear simple ancient robes. The painting collides two centuries inside one room." },
+      { "x": 0.90, "y": 0.68, "label": "Peter",               "note": "Saint Peter stands in front of Christ, partly blocking him. He echoes Christ's gesture with his own outstretched hand, as if relaying the call. A reminder that the new Church works through human intermediaries." },
+      { "x": 0.55, "y": 0.95, "label": "Tenebrism below",     "note": "The lower half of the painting dissolves into darkness. We can't see the floor, the legs of the table, or where the men's chairs sit. The scene floats in a black theatre, lit only by the beam from above." }
+    ],
+    "intro": [
+      "The *Calling of Saint Matthew* hangs in the [[Contarelli Chapel]] of the church of San Luigi dei Francesi, a short walk from the Pantheon in Rome. It is the first of three paintings Caravaggio made for that chapel, at age 28, when he was almost completely unknown.",
+      "The commission came from the executors of Cardinal Matteo Contarelli, a French cardinal who had died years earlier and left money for a chapel decorated with scenes from the life of Matthew, his name saint. The executors took a risk on a young, difficult painter from the streets of Rome. When the chapel finally opened in 1600, the risk paid off in a way nobody expected. Crowds came to see the painting. Other artists came to study it. Within a few years, Caravaggio went from unknown provincial to the most copied painter in Italy."
+    ],
+    "first_impression": "A dark room. Five men sit around a table, counting coins and arguing. From the right, two more men enter — dressed in different clothes, almost as if they have walked in from another century. A thin shaft of light slants down from somewhere we cannot see, falling on the faces of the men at the table. The rightmost newcomer raises an arm and points across the room. Some of the men at the table look up. One of them touches his own chest, as if to ask: *Me?*",
+    "hidden_narrative": "The Bible passage is one of the shortest in the New Testament. Jesus passes by, sees the tax collector Levi (later called Matthew) sitting at his table, and says: *Follow me*. Matthew immediately stands up and follows. That is the entire scene. What Caravaggio does with it is extraordinary. He sets the moment in a 16th-century Roman gambling room: the men at the table wear contemporary Italian clothes, with feathered hats and slashed sleeves; they look like the kind of people Caravaggio drank with in real life. Jesus and Saint Peter, who enter from the right, wear simple ancient robes. The painting collides two centuries inside one room. The deepest ambiguity is this: which man is Matthew? Most viewers assume it is the bearded man at the centre of the table, his hand on his own chest as if to say *me?*. But many art historians now believe Matthew is the young man at the far left, hunched over the coins, who has not even noticed Jesus yet. If they are right, then Jesus is pointing at someone who does not yet know he has been called — and the viewer is the only one who can see the call arriving.",
+    "technical_magic": "Five technical decisions make this painting work. **One:** the light. It enters from a hidden source in the upper right, falling exactly along the diagonal of Jesus's pointing hand. The light is not a separate fact about the scene; it is *what Jesus is pointing*. **Two:** Jesus's hand itself. Caravaggio borrowed its pose directly from [[Michelangelo]]'s *Creation of Adam* on the Sistine ceiling, but reversed it. The visual quotation tells anyone with eyes: this is the new Creation. **Three:** the diagonal organisation. The light, Jesus's arm, the edge of the table, and the slant of the men's posture all pull the eye from upper right to lower left. The painting refuses to settle into stability. **Four:** the contemporary dress of the tax collectors. By painting them in 1590s Roman fashion rather than biblical robes, Caravaggio collapses time. The story is no longer a historical event from Palestine; it is something happening in Rome, right now. **Five:** [[tenebrism]]. The room dissolves into blackness on the right and across the top. We cannot see the door Jesus came through, the window the light enters from, or the back wall. The whole scene floats in a black theatre, lit only by the beam that follows the gesture of the hand.",
+    "so_what": "The *Calling of Saint Matthew* was an immediate sensation when the chapel opened in 1600. Rome had never seen anything like it. Within twenty years, every Catholic painter in Europe was working in some version of this idiom. Rubens travelled to Rome specifically to study it. Velázquez copied its lighting in Spain. Rembrandt, two thousand kilometres away in Holland and a generation later, learned to paint shadow from engravings of it. The single-source dramatic light Caravaggio invented in this painting is now so deeply embedded in our visual culture that we no longer recognise it as a stylistic choice. Every photograph lit by a single window. Every film noir frame. Every theatre spotlight following a singer across a dark stage. Every dramatic Instagram portrait shot at golden hour. They all trace back to this one chapel in Rome, where Caravaggio, in 1600, decided to paint Jesus walking into a Roman tavern and pointing at the kind of man no one expected to be called."
+  },
+
+  "glossary": [
+    {
+      "term": "Baroque",
+      "definition": "The dramatic, theatrical style of Western art, c. 1600–1750. Marked by strong light–dark contrasts, dynamic diagonal compositions, intense emotion, and a deliberate effort to involve the viewer. Born in Catholic Rome, it spread across Europe and the colonies."
+    },
+    {
+      "term": "Protestant Reformation",
+      "definition": "Religious movement begun in 1517 by Martin Luther that split Western Christianity. By the late 1500s much of Northern Europe had broken from Rome. The Catholic response to this loss is what made Baroque art necessary."
+    },
+    {
+      "term": "Counter-Reformation",
+      "definition": "The Catholic Church's strategic response to the Protestant Reformation, roughly 1545–1648. Included theological reform, the founding of the Jesuits, and a deliberate use of dramatic religious art to win hearts back to Rome."
+    },
+    {
+      "term": "Council of Trent",
+      "definition": "A long series of meetings of Catholic leaders held in northern Italy between 1545 and 1563. It issued the Counter-Reformation's instructions, including a clear brief to artists: make religious painting emotional, clear, and capable of moving ordinary people."
+    },
+    {
+      "term": "Caravaggio",
+      "definition": "Michelangelo Merisi da Caravaggio (1571–1610). Italian painter who effectively invented the Baroque. Violent, brilliant, and chronically in trouble with the law. Killed a man in 1606 and died on the run in 1610, age 38."
+    },
+    {
+      "term": "Artemisia Gentileschi",
+      "definition": "Italian Baroque painter (1593 – c. 1656). Trained by her father inside Caravaggio's circle. Survived a public rape trial as a teenager. Her *Judith Slaying Holofernes* is one of the most ferocious paintings of the era."
+    },
+    {
+      "term": "Chiaroscuro",
+      "definition": "Italian for *light–dark*. The use of strong contrasts between bright and dark areas to model form and create drama. Renaissance painters used it softly; Baroque painters used it like film noir lighting."
+    },
+    {
+      "term": "Tenebrism",
+      "definition": "The extreme form of chiaroscuro, where deep shadow dominates most of the canvas and figures emerge from a black void. Caravaggio's signature. From the Italian *tenebroso*, meaning *gloomy* or *dark*."
+    },
+    {
+      "term": "Diagonal composition",
+      "definition": "Arranging figures, light, and movement along diagonal axes rather than upright vertical or stable horizontal ones. The visual signature of an action *happening right now*, as opposed to the stable Renaissance pyramid."
+    },
+    {
+      "term": "Naturalism",
+      "definition": "Painting figures as they actually look — lined faces, dirty feet, weathered hands — rather than idealised in the classical manner. Caravaggio's deliberate strategy to make sacred stories feel real and immediate."
+    },
+    {
+      "term": "Fourth wall",
+      "definition": "Originally a theatre term: the imaginary boundary between actors and audience. In painting, the fourth wall is *broken* when a figure looks directly out at the viewer, or extends a hand across the picture plane into the viewer's space."
+    },
+    {
+      "term": "Religious narrative painting",
+      "definition": "A genre that depicts a specific story moment from the Bible or a saint's life in a single image. Ancient genre. The Baroque transformed it from a static diagram of the holy event into a captured moment that demands the viewer's emotional response."
+    },
+    {
+      "term": "Caravaggisti",
+      "definition": "Italian for *followers of Caravaggio*. The international generation of painters — Artemisia Gentileschi, Peter Paul Rubens, Diego Velázquez, Rembrandt van Rijn, Georges de La Tour, and many others — who absorbed his innovations across the 17th century."
+    },
+    {
+      "term": "Michelangelo",
+      "definition": "Italian sculptor, painter, and architect (1475–1564). The High Renaissance master. Painted the Sistine Chapel ceiling, including *The Creation of Adam*. Caravaggio's pointing Jesus in the *Calling of Saint Matthew* is a deliberate quotation of Michelangelo's pointing Adam."
+    },
+    {
+      "term": "Contarelli Chapel",
+      "definition": "A small side chapel in the church of San Luigi dei Francesi in Rome, decorated by Caravaggio between 1599 and 1602 with three large paintings from the life of Saint Matthew. Still in the chapel today. Free to visit; one coin lights the paintings for about a minute."
+    }
+  ],
+
+  "quiz_gate_title": "How well did today's journey land?",
+  "quiz_gate_text": "Ten quick questions to lock it in. No grading — just a chance to see what stuck.",
+  "quiz_gate_button": "Start the test",
+
+  "quiz": [
+    {
+      "question": "What triggered the Baroque style in Rome?",
+      "options": [
+        "The Protestant Reformation and Catholic Counter-Reformation",
+        "The European discovery of the New World",
+        "The death of Michelangelo in 1564",
+        "Italian political unification under one ruler"
+      ],
+      "correct": 0,
+      "explanation": "Luther's 1517 protests split Western Christianity. The Catholic Church responded with the Counter-Reformation, which deliberately commissioned emotional, dramatic religious art to win viewers back. That commission is what created Baroque painting."
+    },
+    {
+      "question": "The Italian word *chiaroscuro* literally means what?",
+      "options": [
+        "Smoke and mirrors — visual trickery",
+        "Quick and slow — brushwork speeds",
+        "Light and dark — bold contrast",
+        "Heavy and light — paint thickness"
+      ],
+      "correct": 2,
+      "explanation": "*Chiaro* means light or clear, *oscuro* means dark. The technique uses strong contrasts between lit and shadowed zones to model form and create theatrical drama."
+    },
+    {
+      "question": "How does tenebrism differ from ordinary chiaroscuro?",
+      "options": [
+        "Tenebrism uses only red and gold paint",
+        "Tenebrism applies only to outdoor scenes",
+        "Tenebrism is a Renaissance fresco method",
+        "Tenebrism lets deep shadow dominate the canvas"
+      ],
+      "correct": 3,
+      "explanation": "Both use light–dark contrast, but tenebrism takes it to extremes: most of the canvas is near-black, and the figures emerge from a void. It strips away any sense of place."
+    },
+    {
+      "question": "Why did Caravaggio use street people as models?",
+      "options": [
+        "To save money on professional sitters",
+        "To irritate the Catholic Church on purpose",
+        "To make sacred stories feel real and immediate",
+        "Because no other painters dared to model nude"
+      ],
+      "correct": 2,
+      "explanation": "Naturalism was a deliberate Counter-Reformation strategy. Saints painted as ordinary people made the Bible feel like something that could happen to ordinary viewers. Believable, not perfect."
+    },
+    {
+      "question": "What does a diagonal composition signal to the viewer?",
+      "options": [
+        "A pyramid of stable, monumental figures",
+        "Movement happening right now, mid-action",
+        "Royal wealth and powerful aristocratic patronage",
+        "A strictly religious rather than secular setting"
+      ],
+      "correct": 1,
+      "explanation": "Renaissance pyramidal compositions read as stable and eternal. Baroque diagonals read as unstable and time-sensitive — an action caught mid-motion, not a calm tableau."
+    },
+    {
+      "question": "Why do Baroque figures often look straight at us?",
+      "options": [
+        "It was the cheapest pose for a painter",
+        "Because patrons always demanded direct eye contact",
+        "Mirror practice for the apprentice painters",
+        "To make the viewer a witness, not a spectator"
+      ],
+      "correct": 3,
+      "explanation": "Direct gaze breaks the fourth wall. We're pulled inside the scene and asked, implicitly, to respond. It was a Counter-Reformation tool: a saint who has looked you in the eye is harder to ignore."
+    },
+    {
+      "question": "Renaissance vs Baroque painting — the key difference?",
+      "options": [
+        "Religious subject versus secular subject",
+        "Oil paint versus tempera paint",
+        "Italian style versus French style",
+        "Static diagram versus captured moment"
+      ],
+      "correct": 3,
+      "explanation": "Renaissance paintings *describe* a holy event in a clear, balanced way. Baroque paintings *make the event happen* to the viewer through drama, light, and immediacy."
+    },
+    {
+      "question": "How did Caravaggio die?",
+      "options": [
+        "Murdered by a jealous rival painter",
+        "On the run with a fever near Naples",
+        "Old age in a comfortable Roman villa",
+        "Executed by the Catholic Inquisition"
+      ],
+      "correct": 1,
+      "explanation": "He killed a man in 1606 in a dispute possibly over a tennis match. He spent four years fleeing across Italy and Malta. He died on a beach near Porto Ercole in 1610, age 38, of fever — though the exact cause is still debated."
+    },
+    {
+      "question": "Who are the Caravaggisti?",
+      "options": [
+        "European painters working in his style",
+        "His personal studio assistants in Rome",
+        "Roman aristocrats who employed him directly",
+        "A criminal gang he briefly led in Naples"
+      ],
+      "correct": 0,
+      "explanation": "*Caravaggisti* — *followers of Caravaggio* — is the umbrella term for the international generation of painters (Artemisia Gentileschi, Rubens, Velázquez, Rembrandt and many more) who absorbed his innovations in the 17th century."
+    },
+    {
+      "question": "Christ's pointing hand in the Calling quotes which earlier work?",
+      "options": [
+        "Botticelli's painting Birth of Venus",
+        "Michelangelo's Adam on the Sistine ceiling",
+        "Donatello's bronze sculpture of David",
+        "Leonardo's Vitruvian Man proportional drawing"
+      ],
+      "correct": 1,
+      "explanation": "The pose is taken directly from *The Creation of Adam* in the Sistine Chapel, only mirror-reversed. Anyone in Rome who knew the ceiling would have read the quotation: *this is the new Creation, the new Adam being called.*"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "id": "01-italyan-renessansi",
+  "number": 1,
+  "title": "The High Renaissance and the Birth of the Modern Portrait",
+  "reading_time": "~12 min read",
+
+  "era": {
+    "heading": "The era",
+    "label_en": "Italian High Renaissance, c. 1490–1527",
+    "body": [
+      "Picture a teenage boy walking past an open workshop door in Florence in the year 1500. Inside, a man is drawing the dissected wing of a bird, sketching the geometry of a canal lock, and laying down translucent veils of paint so thin that thirty of them stacked together still look like a single layer. The man is [[Leonardo da Vinci]]. What he is doing in that room will, within twenty years, reshape how Europeans see the human face, the human body, and the natural world.",
+      "The [[High Renaissance]] is the short, brilliant moment between roughly 1490 and 1527 when three Italian artists — Leonardo, [[Michelangelo]], and [[Raphael]] — pushed painting to a level of confidence that took the next four centuries to digest. The word \"[[Renaissance]]\" comes from French and simply means *rebirth*. What was being reborn? An idea that Europe had not seriously held since antiquity: that the human being is the measure of all things, and that an artist is a creator, not a craftsman.",
+      "To understand why this happened in *Italy*, and why it happened *then*, you need to follow the money. For most of the [[Middle Ages]], European painting served one purpose: to remind illiterate worshippers of Bible stories on the walls of churches. Figures were flat, gold-backed, expressionless. There was no shadow, because there was no real space. Then, slowly, from the 14th century onward, the Italian city-states grew rich on trade and banking. Florence, in particular, became wealthy thanks to a family of bankers called the [[Medici]]. Greek and Roman statues began turning up in vineyards and ruined villas. Artists started reading [[Vitruvius]] and studying anatomy. By 1500, a great painter was no longer a guild artisan paid by the day. He was a friend of philosophers and a counsellor to dukes.",
+      "Every High Renaissance image you'll ever see was made to satisfy one of three appetites of its [[patron]]. **First**, public proof of piety: this gave us altarpieces and chapel [[frescoes]]. **Second**, durable advertising of a family's status: this gave us portraits. **Third**, a display of classical education: this gave us mythological scenes. The Mona Lisa exists because a Florentine silk merchant wanted to brand his family. The Sistine Chapel ceiling exists because a pope wanted to outshine his predecessors. There is no painting from this period that doesn't sit on top of an invoice.",
+      "Each of the three giants played a different role. **Leonardo** (1452–1519) was the thinker. He read anatomy textbooks, dissected corpses by candlelight, and built up his pictures from dozens of paper-thin layers of oil. **Michelangelo** (1475–1564) was the sculptor of pictures. He saw every human body as a soul about to rise out of stone, even when he was painting on a wet ceiling. **Raphael** (1483–1520) was the composer. No one before or since has arranged figures on a canvas with quite the same musical balance — every glance, every hand, every fold of cloth pulling its weight in a harmonious whole.",
+      "The party ended in 1527, when the troops of Holy Roman Emperor Charles V mutinied for unpaid wages and sacked the city of Rome. Churches were looted, papal officials were murdered, and artists scattered across Europe. This event — the [[Sack of Rome]] — is the conventional end point of the High Renaissance. The confidence broke. What came next was the strange, nervous style we now call Mannerism. But the visual vocabulary invented in those thirty-seven years — sfumato, idealised proportion, atmospheric depth, three-quarter portrait — became the standard equipment of Western painting until the 19th century."
+    ],
+    "pull_quote": "A High Renaissance painter wasn't a wage-earning artisan. He was a magician who could put his patron on equal footing with God.",
+    "figure": {
+      "src": "assets/sessions/01/creation-of-adam.jpg",
+      "alt": "Michelangelo, The Creation of Adam, Sistine Chapel ceiling",
+      "artist": "Michelangelo Buonarroti",
+      "title": "The Creation of Adam (Sistine Chapel ceiling)",
+      "year": "1508–1512",
+      "location": "Vatican",
+      "note": "The entire spirit of the period is in the gap between those two fingers — man and God, almost equal, almost touching."
+    }
+  },
+
+  "genre": {
+    "heading": "The genre",
+    "name_en": "Portraiture",
+    "body": [
+      "Today, getting your portrait painted feels about as ordinary as taking a selfie. It's easy to forget how *strange* the idea was in 1500. For the previous thousand years in Europe, having your own face painted on a panel, framed, and hung on a wall would have struck almost everyone as bizarre — a little blasphemous, even. Faces in art belonged to saints and kings, not to silk merchants and their wives.",
+      "The High Renaissance changed that completely. Suddenly, a portrait was not just a record of what you looked like. It was a capsule containing your status, your education, your political alliances, and — this was the genuinely new thing — your *inner life*. A good portrait promised to deliver a person's character, not just their face. This is the entire backbone of every wedding photo, LinkedIn headshot, and Instagram profile picture we still take today. It started here.",
+      "Five unwritten rules governed High Renaissance portraiture, and you can use them as a checklist on almost any portrait from the period.",
+      "**One: the [[three-quarter view]].** A full profile looks like a coin — formal, dead. A full-frontal stare looks like a religious icon — also formal, also dead. A face turned about thirty degrees off-centre is the angle of a real human being who is just about to start talking to you. Leonardo didn't invent this pose, but the three-quarter view became the High Renaissance default because it lets the painter show both eyes, the line of the nose, and one expressive hand all at once.",
+      "**Two: the landscape background.** Behind almost every important sitter you'll see distant mountains, a river, or a winding road. This is never just scenery. It is shorthand for the *world the sitter commands*. A merchant's house overlooks an estate. A duke's territory rolls out behind him. The strange, almost alien mountains behind the Mona Lisa are saying: *her mind reaches as far as that horizon*.",
+      "**Three: a quiet idealisation.** Almost every face in High Renaissance portraiture has been gently adjusted. If the sitter's nose was crooked, it has been straightened. If the chin was weak, it has been firmed. This isn't lying. It's matching the sitter to the classical [[canon]] of proportion that artists had inherited from Greek sculpture. The aim was to make a portrait that was both *this specific person* and *a recognisable ideal of a human being*.",
+      "**Four: meaningful hands and objects.** Look at what the sitter is holding, wearing, or resting their hand on. A book signals literacy and philosophy. A folded letter signals political importance. A small dog signals loyalty in marriage; an ermine signals connection to the Sforza court of Milan; a pomegranate signals fertility. Nothing in a Renaissance portrait is decoration. Every object is a sentence.",
+      "**Five: light from the left, skin like silk.** Light almost always falls from the upper left, because in Western convention left is the \"noble\" side. Skin is rendered through layered glazes until it looks lit from inside. You are seeing — five hundred years before the term existed — a beauty filter."
+    ],
+    "gallery": [
+      {
+        "src": "assets/sessions/01/lady-with-ermine.jpg",
+        "alt": "Leonardo da Vinci, Lady with an Ermine",
+        "artist": "Leonardo da Vinci",
+        "title": "Lady with an Ermine (Cecilia Gallerani)",
+        "year": "1489–1491",
+        "location": "Czartoryski Museum, Kraków",
+        "note": "The ermine is the personal emblem of Ludovico Sforza, Duke of Milan. The lady is his teenage mistress, Cecilia. The whole painting is a diplomatic message wrapped in a portrait."
+      },
+      {
+        "src": "assets/sessions/01/castiglione.jpg",
+        "alt": "Raphael, Portrait of Baldassare Castiglione",
+        "artist": "Raphael",
+        "title": "Baldassare Castiglione",
+        "year": "1514–1515",
+        "location": "Louvre, Paris",
+        "note": "Castiglione wrote The Book of the Courtier, the bestselling guide to becoming the ideal Renaissance gentleman. Raphael paints him as living proof of his own theory."
+      },
+      {
+        "src": "assets/sessions/01/donna-velata.jpg",
+        "alt": "Raphael, La Donna Velata",
+        "artist": "Raphael",
+        "title": "La Donna Velata (The Veiled Woman)",
+        "year": "1515–1516",
+        "location": "Pitti Palace, Florence",
+        "note": "Probably a portrait of Raphael's lover, the baker's daughter Margherita Luti. He turned a private affair into a public ideal of grace."
+      },
+      {
+        "src": "assets/sessions/01/ginevra-de-benci.jpg",
+        "alt": "Leonardo da Vinci, Ginevra de' Benci",
+        "artist": "Leonardo da Vinci",
+        "title": "Ginevra de' Benci",
+        "year": "c. 1474–1478",
+        "location": "National Gallery of Art, Washington",
+        "note": "Leonardo's first fully mature portrait. The juniper bush behind her head is a quiet pun: ginepro in Italian means juniper, and Ginevra is her name."
+      },
+      {
+        "src": "assets/sessions/01/pope-julius-ii.jpg",
+        "alt": "Raphael, Portrait of Pope Julius II",
+        "artist": "Raphael",
+        "title": "Pope Julius II",
+        "year": "1511–1512",
+        "location": "National Gallery, London",
+        "note": "The first papal portrait that shows the pope deep in thought rather than facing the viewer in ceremony. Visitors who saw it for the first time reportedly trembled, thinking the pope was actually in the room."
+      }
+    ],
+    "outro": [
+      "Notice what these five portraits share. Each sitter is turned at about thirty degrees. Each has at least one hand on view. Each is backed either by a landscape or by a quiet, neutral darkness. Each face has been smoothed and idealised. Once you've absorbed this grammar, you'll start reading every portrait you encounter from this period — and the next four hundred years — almost instinctively."
+    ]
+  },
+
+  "elements": {
+    "heading": "Five micro-elements",
+    "label_en": "The visual alphabet",
+    "intro": "Now we narrow the lens. These are the five techniques and visual habits you'll find again and again in High Renaissance portraits. Learn them once and you'll start to *read* a painting rather than just glance at it.",
+    "items": [
+      {
+        "name": "Sfumato",
+        "name_en": "sfumato",
+        "meaning": "A smoke-like blurring of edges. Leonardo's signature trick: contour lines disappear, and the eye can never quite tell where one form ends and the next begins.",
+        "body": [
+          "The Italian word *[[sfumato]]* comes from *sfumare*, \"to evaporate like smoke.\" Leonardo perfected it to such a degree that you genuinely cannot say where the Mona Lisa's lips stop and her cheek begins. The transition is so gradual that your eye gives up trying to find the line.",
+          "Technically, the effect is built up by laying down extremely thin, semi-transparent layers of oil paint called glazes — sometimes thirty or forty of them, with weeks of drying time between each. This is one reason Leonardo could spend fifteen years on a single small portrait. He wasn't slow. He was waiting for paint to dry.",
+          "The psychological effect is what makes sfumato a kind of magic. Because there is no sharp boundary to lock onto, your brain has to *complete* the face every time you look. The famous ambiguity of the Mona Lisa's smile — present from one angle, gone from another — isn't a mystical accident. It's an optical consequence of sfumato. Leonardo deliberately hid the corners of her mouth in a haze so that you'd never see the same expression twice."
+        ],
+        "figure": {
+          "src": "assets/sessions/01/mona-lisa.jpg",
+          "alt": "Mona Lisa, detail of the face",
+          "artist": "Leonardo da Vinci",
+          "title": "Mona Lisa (face detail)",
+          "year": "1503–1519",
+          "location": "Louvre, Paris",
+          "note": "Look at the corners of the mouth and the soft edge of the eyelids. There are no lines, only graded shadow."
+        }
+      },
+      {
+        "name": "Pyramidal composition",
+        "name_en": "pyramidal / triangular composition",
+        "meaning": "Arranging the figure inside an invisible triangle. The widest part of the body is at the base, the head at the apex.",
+        "body": [
+          "A triangle is the most stable shape in geometry. Renaissance painters knew this from architecture and quietly imported it into portraiture and religious scenes. When a figure is composed inside a triangle, your eye unconsciously reads them as *solid, monumental, permanent*.",
+          "Look at the Mona Lisa: her elbows form the wide base, her shoulders narrow inward, and her head sits at the top. The whole figure sits inside a clean pyramid. Raphael did the same with his Madonnas: Mary and the two children always form a triangle, even when they're playing.",
+          "The effect is psychological more than mathematical. A figure on a pyramid feels like a statue rather than a sketch — like she's not going anywhere. This is exactly the impression a Renaissance patron wanted: *this is who I am, and I am not moving*."
+        ],
+        "figure": {
+          "src": "assets/sessions/01/madonna-meadow.jpg",
+          "alt": "Raphael, Madonna in the Meadow",
+          "artist": "Raphael",
+          "title": "Madonna in the Meadow",
+          "year": "1506",
+          "location": "Kunsthistorisches Museum, Vienna",
+          "note": "Mary, the infant Jesus, and the young John the Baptist form a textbook triangle. The whole picture would collapse if you removed any one of them."
+        }
+      },
+      {
+        "name": "Three-quarter view",
+        "name_en": "three-quarter view",
+        "meaning": "The sitter's face turned roughly thirty to forty-five degrees from frontal. The pose of a person about to speak.",
+        "body": [
+          "Before the Renaissance, faces in European art were either full-frontal (icons of saints, meant for prayer) or in strict profile (rulers on coins, meant to look distant and authoritative). Both poses are static. They tell you *this person exists*, but they don't tell you *what kind of person they are*.",
+          "The three-quarter view is the pose of someone caught mid-thought, just about to turn toward you. It is the most *conversational* angle a human face can take. It also happens to be the most flattering: it shows the line of the nose and jaw, allows one eye to dominate while the other softens, and lets the painter include both hands in the frame.",
+          "Once Leonardo and Raphael standardised this pose, the older profile portrait disappeared within a generation. Every passport photo, school yearbook, and corporate headshot you've ever seen owes its angle to this small Florentine innovation."
+        ],
+        "figure": {
+          "src": "assets/sessions/01/castiglione.jpg",
+          "alt": "Raphael, Portrait of Baldassare Castiglione",
+          "artist": "Raphael",
+          "title": "Baldassare Castiglione",
+          "year": "1514–1515",
+          "location": "Louvre, Paris",
+          "note": "The textbook three-quarter pose. Castiglione looks like he's about to lean forward and finish a sentence."
+        }
+      },
+      {
+        "name": "Atmospheric perspective",
+        "name_en": "atmospheric perspective",
+        "meaning": "Distant objects painted bluer, paler, and softer than near ones. A trick of physics turned into a trick of paint.",
+        "body": [
+          "Stand on a hillside and look toward a far ridge. You'll notice that the further away the mountains are, the bluer and hazier they look. This is real physics: tiny particles of water and dust in the air scatter the blue end of sunlight, exactly the same reason the sky itself is blue.",
+          "[[Atmospheric perspective]] is the trick of building this effect into a flat painting on purpose. Foreground rocks are painted in warm, sharp, high-contrast colours. The middle distance is softened. The far horizon is reduced to a wash of pale blue. The eye reads this as depth before the brain notices what's happening.",
+          "Leonardo wrote a small treatise on this effect, and he used it more obsessively than any painter before him. The strange, bluish mountains behind the Mona Lisa are an extreme example: the foreground (her face, hands, the small road) is crisp and warm, the middle distance is muffled, and the far peaks dissolve into something that looks almost like another planet. The illusion of infinite space behind a sitter — a feature of portraiture ever since — was effectively his invention."
+        ],
+        "figure": {
+          "src": "assets/sessions/01/ginevra-de-benci.jpg",
+          "alt": "Leonardo, Ginevra de' Benci, background detail",
+          "artist": "Leonardo da Vinci",
+          "title": "Ginevra de' Benci (background detail)",
+          "year": "c. 1474–1478",
+          "location": "National Gallery of Art, Washington",
+          "note": "The juniper branches at her shoulder are razor-sharp; the water and trees behind dissolve into blue-grey haze."
+        }
+      },
+      {
+        "name": "Idealised proportion",
+        "name_en": "idealised beauty / classical canon",
+        "meaning": "The face quietly adjusted to match an ancient ideal of proportion. The sitter is recognisably themselves and also a Platonic version of themselves.",
+        "body": [
+          "Renaissance painters had access to two ancient texts they treated like scripture. One was Vitruvius's *Ten Books on Architecture*, which described the human body as a system of perfect ratios. The other was the lost *[[Canon]]* of the Greek sculptor Polykleitos, known only from later descriptions. Together, these texts argued that a beautiful body — like a beautiful temple — could be expressed as a set of simple proportions.",
+          "When a Renaissance painter portrayed a real person, he would silently nudge their features toward this canon. The forehead, nose, mouth, and chin would be made to occupy four roughly equal vertical zones. The space between the eyes would be the width of exactly one eye. The neck would be slightly elongated to match a Greek sculptural ideal.",
+          "This is why faces from this period feel oddly *familiar* even when you've never seen them before. They aren't real individuals; they aren't pure inventions either. They're real people who have been quietly tuned to a universal pattern. Five hundred years later, your brain still recognises the pattern, even if you couldn't name it."
+        ],
+        "figure": {
+          "src": "assets/sessions/01/donna-velata.jpg",
+          "alt": "Raphael, La Donna Velata, detail",
+          "artist": "Raphael",
+          "title": "La Donna Velata (detail)",
+          "year": "1515–1516",
+          "location": "Pitti Palace, Florence",
+          "note": "Raphael's lover, idealised. The face is hers, but the geometry behind it is borrowed from Greek sculpture."
+        }
+      }
+    ]
+  },
+
+  "masterpiece": {
+    "heading": "Deep dive: the Mona Lisa",
+    "title": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "year": "1503–1519",
+    "location": "Louvre, Paris",
+    "label_first_impression": "First impression",
+    "label_hidden_narrative": "The hidden story",
+    "label_technical_magic": "Technical magic",
+    "label_so_what": "Why it still matters",
+    "figure": {
+      "src": "assets/sessions/01/mona-lisa.jpg",
+      "alt": "Leonardo da Vinci, Mona Lisa (La Gioconda), full painting",
+      "artist": "Leonardo da Vinci",
+      "title": "Mona Lisa (La Gioconda)",
+      "year": "1503–1519",
+      "location": "Louvre, Paris",
+      "note": "Oil on poplar panel, 77 × 53 cm. Smaller than most reproductions suggest."
+    },
+    "hotspots": [
+      { "x": 0.50, "y": 0.34, "label": "The eyes",          "note": "Painted looking directly outward. Because there are no real perspective shifts as you move, her gaze appears to follow you. Sfumato around the eyelids blurs the precise direction, intensifying the effect." },
+      { "x": 0.51, "y": 0.44, "label": "The smile",         "note": "Asymmetric: the left corner lifts slightly more than the right, with different shadow at each. Sfumato hides both corners so your brain has to keep re-building the expression — that's why it seems to shift." },
+      { "x": 0.42, "y": 0.83, "label": "The hands",         "note": "Left hand resting on top of the right. No wedding ring. A married Florentine woman of her class would normally wear one in a portrait. Many scholars now think the painting drifted from being a portrait of Lisa toward being an *ideal*." },
+      { "x": 0.18, "y": 0.30, "label": "Left horizon",      "note": "The horizon on the left sits noticeably lower than on the right. This subtle imbalance makes the figure seem to tilt, and keeps the eye returning to her face." },
+      { "x": 0.82, "y": 0.20, "label": "Right horizon",     "note": "Higher than the left. The mismatch is one of Leonardo's most cunning compositional tricks — the only way you really *feel* it is by sensing that you can't quite settle in front of the painting." },
+      { "x": 0.86, "y": 0.42, "label": "The mountains",     "note": "Atmospheric perspective taken to an extreme. The foreground road is sharp; the middle distance is hazy; the far peaks dissolve into pale blue vapour, suggesting impossible depth behind a flat panel." },
+      { "x": 0.13, "y": 0.55, "label": "Winding road",      "note": "A small road threads through the lower-left landscape — the kind of detail Leonardo studied in his geographical sketches. It pulls the eye back into the picture's depths." }
+    ],
+    "intro": [
+      "The Mona Lisa is the most famous painting in the world, and the first thing most visitors notice in person is how *small* it is. Roughly the size of a magazine cover. The crowd in front of it in the Louvre is usually thirty deep, but the painting itself could fit inside a kitchen cabinet.",
+      "It was commissioned around 1503 by a Florentine silk merchant named Francesco del Giocondo as a portrait of his young wife, Lisa Gherardini — *mona* is just an old Italian honorific meaning \"madam.\" In Italian the painting is still called *La Gioconda*, which is both a pun on her married name and a feminine word meaning \"the joyful one.\"",
+      "Leonardo never delivered the painting. He kept it with him for the rest of his life, refining it slowly, and eventually carried it with him when he moved to France at the invitation of King Francis I. After Leonardo's death in 1519, the king bought it from his assistant. That is how an Italian portrait of an Italian housewife ended up in a French royal collection, and ultimately in the Louvre."
+    ],
+    "first_impression": "A small woman on a poplar panel, turned slightly to her right, hands quietly folded. The corners of her mouth lift in something that might be a smile or might just be the natural set of her face. Behind her, a fantastically unreal landscape: winding paths, a stone bridge, and bare mountains that look more like an alien planet than any place in Tuscany. The whole image is bathed in a warm yellow-green haze, as though seen through old glass.",
+    "hidden_narrative": "This is not just a portrait of one woman. It's a quiet argument. On the right side of her head, the painted horizon line sits higher than on the left, which makes her seem subtly to tilt — a destabilising trick that keeps your eye returning to her face. Behind her, the landscape is chaotic, almost prehistoric. In front of it sits Lisa: calm, balanced, civilised. Leonardo is making a statement about what a human being is: a small island of order in front of an enormous, ancient, indifferent natural world. Look also at her hands. The left rests on top of the right, but there is no wedding ring — even though a married Florentine woman of her class would normally wear one in a portrait. Some scholars now think the painting drifted, over the years Leonardo kept reworking it, away from being a portrait of Lisa Gherardini and toward being a portrait of an *ideal* — perhaps Leonardo's private vision of feminine intelligence.",
+    "technical_magic": "Five concrete tricks make this painting feel alive. **One:** sfumato. Leonardo built her face from dozens of glaze layers, some only one or two micrometres thick, with no visible brushwork anywhere. **Two:** an asymmetric smile. The left side of her mouth turns up slightly more than the right, and the shadow at each corner is different, so your eye can never settle on a single expression. **Three:** the unbalanced horizon, mentioned above, which makes the figure subtly impossible to lock down. **Four:** the pyramidal composition — hands at the base, shoulders narrowing, head at the apex — which is what gives such a small figure her air of monumental calm. **Five:** atmospheric perspective taken to an extreme. The foreground road and bridge are crisp; the middle distance is hazy; the mountains dissolve into vapour. The space behind her feels deeper than the panel possibly allows.",
+    "so_what": "Why is this small portrait the most famous painting on earth? Technical brilliance is part of the answer but not all of it. The full story includes a piece of dumb luck: in 1911, an Italian handyman named Vincenzo Peruggia walked into the Louvre, took the painting off the wall, hid it under his coat, and went home. The painting was missing for two years. During those two years, every newspaper in Europe and America ran the story almost daily. Crowds queued at the Louvre just to look at the empty hook. When the painting was found in Florence in 1913, it was famous in a way no other artwork had ever been. The deeper reason it has stayed famous is harder to put into words. Most pre-modern portraits look *out* at you in one direction. The Mona Lisa is the first painting that seems to *look back*. Wherever you stand in front of her, her eyes find you. Whatever mood you're in, her almost-smile mirrors it. She is the first painting in Western art that behaves like another consciousness in the room. Five hundred years later, we're still trying to catch her looking away."
+  },
+
+  "glossary": [
+    {
+      "term": "Renaissance",
+      "definition": "A cultural movement in Europe, roughly 1300–1600, that revived the ideas, art, and learning of ancient Greece and Rome. The French word literally means *rebirth*."
+    },
+    {
+      "term": "High Renaissance",
+      "definition": "The short peak of the Italian Renaissance, roughly 1490–1527, dominated by Leonardo, Michelangelo, and Raphael. It ended with the Sack of Rome in 1527."
+    },
+    {
+      "term": "Middle Ages",
+      "definition": "The period of European history between the fall of Rome (c. 500) and the start of the Renaissance (c. 1400). In art, this is the era of gold backgrounds, flat figures, and overwhelmingly religious subject matter."
+    },
+    {
+      "term": "Medici",
+      "definition": "A family of bankers and rulers who controlled Florence for most of the 15th and 16th centuries. Their patronage paid for an enormous share of Renaissance art."
+    },
+    {
+      "term": "Patron",
+      "definition": "The person or institution who paid for a work of art. In the Renaissance, patrons usually dictated the subject, size, materials, and deadline — and often who appeared in the picture."
+    },
+    {
+      "term": "Frescoes",
+      "term_en": "fresco",
+      "definition": "A painting technique done on freshly applied wet plaster. The pigment binds chemically with the wall as it dries, making the image extremely durable. Used for ceilings and walls. The Sistine Chapel ceiling is the most famous example."
+    },
+    {
+      "term": "Vitruvius",
+      "definition": "A 1st-century BCE Roman architect whose surviving treatise *Ten Books on Architecture* gave Renaissance artists a system of ideal human proportions. Leonardo's *Vitruvian Man* drawing illustrates Vitruvius's claims."
+    },
+    {
+      "term": "Sack of Rome",
+      "definition": "The eight-day looting of Rome in May 1527 by mutinous troops of Holy Roman Emperor Charles V. It scattered the artistic community, killed hundreds of papal staff, and conventionally marks the end of the High Renaissance."
+    },
+    {
+      "term": "Three-quarter view",
+      "definition": "A portrait pose in which the sitter's face is turned roughly 30–45 degrees from facing the viewer. Standardised in the High Renaissance; the default angle for portraits ever since."
+    },
+    {
+      "term": "Sfumato",
+      "definition": "Italian for *evaporated like smoke*. A painting technique, perfected by Leonardo, in which colours and tones blend so gradually that edges and contour lines effectively disappear. Built up from many extremely thin glazes."
+    },
+    {
+      "term": "Atmospheric perspective",
+      "definition": "Also called *aerial perspective*. The technique of suggesting depth by painting distant objects paler, bluer, and softer than near ones — mimicking the way the real atmosphere scatters light."
+    },
+    {
+      "term": "Canon",
+      "definition": "In art, a set of mathematical proportions defining ideal human form. The Renaissance canon was reconstructed from Vitruvius's text and surviving Greek sculptures, and quietly applied to real sitters to make them look more like a universal ideal."
+    },
+    {
+      "term": "Leonardo da Vinci",
+      "definition": "Italian painter, scientist, anatomist, and engineer (1452–1519). Born near Florence, died in France. Painted relatively few finished works, but the ones he did finish — Mona Lisa, Last Supper, Lady with an Ermine — redefined what painting could be."
+    },
+    {
+      "term": "Michelangelo",
+      "term_en": "Michelangelo Buonarroti",
+      "definition": "Italian sculptor, painter, and architect (1475–1564). Best known for the marble *David*, the Sistine Chapel ceiling, and the dome of St Peter's. Considered himself a sculptor above all else, even when painting."
+    },
+    {
+      "term": "Raphael",
+      "term_en": "Raffaello Sanzio",
+      "definition": "Italian painter (1483–1520). The youngest of the three High Renaissance giants and the most influential on later Western painting. Died at 37, possibly from a fever. His tomb in the Pantheon in Rome is inscribed: *Here lies Raphael, by whom Nature feared to be outdone while he lived.*"
+    }
+  ],
+
+  "quiz_gate_title": "How well did today's journey land?",
+  "quiz_gate_text": "Ten quick questions to lock it in. No grading — just a chance to see what stuck.",
+  "quiz_gate_button": "Start the test",
+
+  "quiz": [
+    {
+      "question": "Which combination made the High Renaissance possible in Italy?",
+      "options": [
+        "Early apprenticeships copying ancient sculptures",
+        "Banking wealth, classical art, intellectual patrons",
+        "A secretly invented Italian oil-paint formula",
+        "Church laws enforcing classical proportions"
+      ],
+      "correct": 1,
+      "explanation": "It took a stack of conditions: banking wealth (the Medici above all), the rediscovery of classical antiquity, and patrons willing to treat painters as thinkers rather than tradesmen. Oil paint, incidentally, was a Flemish invention the Italians adopted."
+    },
+    {
+      "question": "What is the main effect of *sfumato* on the viewer?",
+      "options": [
+        "The brain keeps rebuilding shifting expressions",
+        "Skin glows from crushed-glass pigments",
+        "Oil paint dries within days, not years",
+        "Yellow varnish suggests permanent dawn light"
+      ],
+      "correct": 0,
+      "explanation": "Sfumato erases contour lines. Your visual system has nothing fixed to lock onto, so it keeps reconstructing the face from scratch. The Mona Lisa's elusive smile is a direct consequence of this technique."
+    },
+    {
+      "question": "Why arrange portrait figures inside an invisible triangle?",
+      "options": [
+        "It symbolised the Christian Holy Trinity",
+        "Italian frames were physically triangular before 1550",
+        "Triangles read as solid and monumental",
+        "Fewer corners meant cheaper commissions"
+      ],
+      "correct": 2,
+      "explanation": "A triangle is the most stable shape your eye knows. A figure composed inside one reads as monumental and unmovable — exactly the impression Renaissance patrons wanted to project."
+    },
+    {
+      "question": "What does the landscape behind a sitter usually signal?",
+      "options": [
+        "The sitter's birthplace, for the family record",
+        "The actual weather on the painting day",
+        "Decoration, added to fill empty backgrounds",
+        "The world the sitter commands or imagines"
+      ],
+      "correct": 3,
+      "explanation": "Landscape in Renaissance portraiture is never neutral scenery. It functions as a status symbol — sometimes literally the sitter's estate, sometimes a metaphor for the breadth of their mind. Decoration it is not."
+    },
+    {
+      "question": "Before the three-quarter pose, how were faces shown?",
+      "options": [
+        "Either icon-frontal or strict coin profile",
+        "Always with eyes closed, suggesting modesty",
+        "From below, to magnify the sitter",
+        "Turned fully away from the viewer"
+      ],
+      "correct": 0,
+      "explanation": "Pre-Renaissance portraits were either icon-like (full-frontal, formal, devotional) or coin-like (strict profile, authoritative, distant). Both poses freeze the sitter. The three-quarter view caught someone mid-thought."
+    },
+    {
+      "question": "Why does the Mona Lisa's gaze seem to follow you?",
+      "options": [
+        "The poplar panel is subtly curved outward",
+        "Beetle-shell pigments shift with viewing angle",
+        "Eyes look out, softened by sfumato edges",
+        "It's purely psychological if you know the painting"
+      ],
+      "correct": 2,
+      "explanation": "Any painted figure whose eyes point directly outward will appear to track you, since there are no real perspective shifts as you move. Sfumato around her eyelids softens the contour and makes the gaze even harder to pin down."
+    },
+    {
+      "question": "What is *atmospheric perspective*?",
+      "options": [
+        "A glow-creating linseed-oil pigment recipe",
+        "Real physics — air scatters short-wavelength light",
+        "Gold leaf applied behind every figure",
+        "A studio convention with no scientific basis"
+      ],
+      "correct": 1,
+      "explanation": "It isn't an invented studio convention — it's real atmospheric physics. Particles in the air scatter shorter (blue) wavelengths, so distant things genuinely look bluer and hazier. Leonardo wrote a small treatise on the effect."
+    },
+    {
+      "question": "Why do Renaissance faces feel subtly familiar?",
+      "options": [
+        "Sitters were biological cousins through intermarriage",
+        "All portraits were traced from Medici master drawings",
+        "Our brains can't process pre-1700 faces",
+        "Real features were tuned to a classical canon"
+      ],
+      "correct": 3,
+      "explanation": "Renaissance painters used the proportional rules of Vitruvius and Polykleitos to nudge any real sitter toward a shared ideal. The portrait is still recognisably the individual, but tuned to a universal pattern."
+    },
+    {
+      "question": "Which event marks the end of the High Renaissance?",
+      "options": [
+        "The Sack of Rome in 1527",
+        "The death of Raphael in 1520",
+        "The Protestant Reformation in the north",
+        "The European discovery of the Americas"
+      ],
+      "correct": 0,
+      "explanation": "Raphael's death in 1520 was a blow, but the conventional end point is the 1527 Sack of Rome. The looting, killings, and dispersal of the artistic community broke the period's confidence and ushered in Mannerism."
+    },
+    {
+      "question": "What made the Mona Lisa world-famous, not just admired?",
+      "options": [
+        "It survived a fire that destroyed all other Leonardos",
+        "The Pope declared it a sacred protected relic",
+        "Napoleon kept it on his bedroom wall",
+        "It was stolen from the Louvre in 1911"
+      ],
+      "correct": 3,
+      "explanation": "In 1911, Vincenzo Peruggia walked the painting out of the Louvre under his coat. The two-year disappearance produced unprecedented global news coverage. By the time it was recovered in 1913, the painting had become famous in a way no artwork had ever been."
+    }
+  ]
+}

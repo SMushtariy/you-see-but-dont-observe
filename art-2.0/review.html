@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Review — You see, but don't observe</title>
+  <meta name="description" content="Spaced-repetition review. Random questions drawn from sessions you've already completed." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body class="session-page">
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="brand">
+        <span class="brand-mark">Y</span>
+        <span class="brand-text">
+          <strong>You see, but don't observe</strong>
+          <em>Review</em>
+        </span>
+      </a>
+      <nav class="site-nav">
+        <a href="index.html#sessions">All sessions</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="review-hero">
+    <div class="container">
+      <h1>Review mode</h1>
+      <p>A randomised mix of questions pulled from sessions you've already completed. Useful for refreshing what you've learned — spaced repetition is the single most effective study technique we know of.</p>
+      <div id="review-root"></div>
+    </div>
+  </section>
+
+  <article class="session">
+    <div class="container">
+      <section class="quiz" id="quiz" hidden>
+        <h2 id="quiz-heading">Review</h2>
+        <p class="quiz-lede" id="quiz-lede">After each answer you'll see a short explanation.</p>
+        <div id="quiz-questions"></div>
+        <div class="quiz-result" id="quiz-result">
+          <p class="score"><span id="score-num">0</span> / <span id="score-total">0</span></p>
+          <p id="score-msg"></p>
+          <a href="review.html" class="btn btn-ghost">New review</a>
+        </div>
+      </section>
+    </div>
+  </article>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="year"></span> You see, but don't observe. Images via Wikimedia Commons.</p>
+    </div>
+  </footer>
+
+  <script src="js/review.js"></script>
+</body>
+</html>

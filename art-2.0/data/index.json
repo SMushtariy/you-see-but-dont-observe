@@ -1,0 +1,307 @@
+{
+  "title": "You see, but don't observe",
+  "subtitle": "Art history, one painting at a time",
+  "language": "en",
+  "sessions": [
+    {
+      "id": "01-italyan-renessansi",
+      "number": 1,
+      "title": "The High Renaissance and the Birth of the Modern Portrait",
+      "era_en": "Italian High Renaissance · Portraiture",
+      "blurb": "The age when humans were painted like gods. Leonardo, Raphael, Michelangelo, and the new spirit of portraiture.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg?width=600",
+      "hero_alt": "Leonardo da Vinci, Mona Lisa",
+      "available": true
+    },
+    {
+      "id": "02-barokko",
+      "number": 2,
+      "title": "The Italian Baroque and the Invention of Cinematic Lighting",
+      "era_en": "Italian Baroque · Religious Narrative",
+      "blurb": "Light versus shadow. Caravaggio turns sacred scenes into Roman street life.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg?width=600",
+      "hero_alt": "Caravaggio, The Calling of Saint Matthew",
+      "available": true
+    },
+    {
+      "id": "03-impressionizm",
+      "number": 3,
+      "title": "French Impressionism and the Painted Moment",
+      "era_en": "French Impressionism · Landscape",
+      "blurb": "The day painters walked out of the studio. Monet, Renoir, and the secrets of fleeting light.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monet_-_Impression,_Sunrise.jpg?width=600",
+      "hero_alt": "Claude Monet, Impression, Sunrise",
+      "available": true
+    },
+    {
+      "id": "04-vizantiya-ikonalari",
+      "number": 4,
+      "title": "Byzantine Icons and the Window to Heaven",
+      "era_en": "Byzantine Icons",
+      "blurb": "Eternity behind a gold ground. Not a picture, but a window.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Theotokos_of_Vladimir.jpg?width=600",
+      "hero_alt": "Theotokos of Vladimir icon",
+      "available": false
+    },
+    {
+      "id": "05-gothic-vitraj",
+      "number": 5,
+      "title": "Gothic Europe and the Stained-Glass Window",
+      "era_en": "European Gothic · Stained Glass",
+      "blurb": "Architects who built heaven out of stone and coloured glass.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vitrail_Chartres_210209_07.jpg?width=600",
+      "hero_alt": "Chartres Cathedral stained glass",
+      "available": false
+    },
+    {
+      "id": "06-giotto",
+      "number": 6,
+      "title": "Giotto and the Birth of Modern Painting",
+      "era_en": "Proto-Renaissance · Fresco",
+      "blurb": "Giotto: the first painter to give a flat figure real human weight.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giotto_-_Scrovegni_-_-36-_-_Lamentation_(The_Mourning_of_Christ)_adj.jpg?width=600",
+      "hero_alt": "Giotto, Lamentation",
+      "available": false
+    },
+    {
+      "id": "07-erta-renessans",
+      "number": 7,
+      "title": "Masaccio and the Discovery of Perspective",
+      "era_en": "Early Italian Renaissance · Fresco",
+      "blurb": "Masaccio and the moment perspective became real on a wall.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Masaccio7.jpg?width=600",
+      "hero_alt": "Masaccio, The Tribute Money",
+      "available": false
+    },
+    {
+      "id": "08-shimoliy-renessans",
+      "number": 8,
+      "title": "The Northern Renaissance and the Burgher Portrait",
+      "era_en": "Northern Renaissance · Burgher Portrait",
+      "blurb": "Van Eyck and the religion of microscopic detail.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Van_Eyck_-_Arnolfini_Portrait.jpg?width=600",
+      "hero_alt": "Jan van Eyck, The Arnolfini Portrait",
+      "available": false
+    },
+    {
+      "id": "09-michelangelo",
+      "number": 9,
+      "title": "The Sistine Ceiling and the Body Made Sacred",
+      "era_en": "High Renaissance (Rome) · Ceiling Fresco",
+      "blurb": "Michelangelo and the Sistine ceiling: a finger reaching toward God.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Creaci%C3%B3n_de_Ad%C3%A1n_(Miguel_%C3%81ngel).jpg?width=600",
+      "hero_alt": "Michelangelo, The Creation of Adam",
+      "available": false
+    },
+    {
+      "id": "10-venetsiya",
+      "number": 10,
+      "title": "The Venetian Renaissance and the Triumph of Colour",
+      "era_en": "Venetian Renaissance · Allegory & Nude",
+      "blurb": "Titian and the triumph of colour over line.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg?width=600",
+      "hero_alt": "Titian, Venus of Urbino",
+      "available": false
+    },
+    {
+      "id": "11-mannerizm",
+      "number": 11,
+      "title": "Mannerism and the Anxious Body",
+      "era_en": "Mannerism · Elongated Figure",
+      "blurb": "El Greco and the soul that refused anatomy.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Greco_-_The_Burial_of_the_Count_of_Orgaz.JPG?width=600",
+      "hero_alt": "El Greco, The Burial of the Count of Orgaz",
+      "available": false
+    },
+    {
+      "id": "12-velazkes",
+      "number": 12,
+      "title": "The Spanish Golden Age and the Court Portrait",
+      "era_en": "Spanish Golden Age · Court Portrait",
+      "blurb": "Velázquez and the day the painter looked back at us.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Las_Meninas_01.jpg?width=600",
+      "hero_alt": "Diego Velázquez, Las Meninas",
+      "available": false
+    },
+    {
+      "id": "13-golland-natyurmort",
+      "number": 13,
+      "title": "The Dutch Golden Age and the Sermon in a Lemon",
+      "era_en": "Dutch Golden Age · Still Life",
+      "blurb": "Lemons, silver, and a silent sermon on time.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Still_Life_with_Gilt_Goblet_1635_Willem_Claesz_Heda.jpg?width=600",
+      "hero_alt": "Willem Claesz. Heda, Still Life with Gilt Goblet",
+      "available": false
+    },
+    {
+      "id": "14-vermeer",
+      "number": 14,
+      "title": "The Dutch Golden Age and the Quiet Kitchen",
+      "era_en": "Dutch Golden Age · Genre Scene",
+      "blurb": "Vermeer and the sacred quiet of a kitchen.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg?width=600",
+      "hero_alt": "Vermeer, The Milkmaid",
+      "available": false
+    },
+    {
+      "id": "15-rembrandt",
+      "number": 15,
+      "title": "The Dutch Golden Age and the Group Portrait",
+      "era_en": "Dutch Golden Age · Group Portrait",
+      "blurb": "Rembrandt and the Night Watch: a bureaucratic commission turned drama.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg?width=600",
+      "hero_alt": "Rembrandt, The Night Watch",
+      "available": false
+    },
+    {
+      "id": "16-rokoko",
+      "number": 16,
+      "title": "Rococo and the Last Dance of the Aristocracy",
+      "era_en": "French Rococo · Pastoral & Eros",
+      "blurb": "Fragonard and Watteau: the aristocracy's last dance.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fragonard,_The_Swing.jpg?width=600",
+      "hero_alt": "Fragonard, The Swing",
+      "available": false
+    },
+    {
+      "id": "17-neoklassisizm",
+      "number": 17,
+      "title": "Neoclassicism and the Painter as Citizen",
+      "era_en": "Neoclassicism · History Painting",
+      "blurb": "Jacques-Louis David: stern lines for a revolutionary age.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis_David_-_Oath_of_the_Horatii_-_Google_Art_Project.jpg?width=600",
+      "hero_alt": "Jacques-Louis David, Oath of the Horatii",
+      "available": false
+    },
+    {
+      "id": "18-nemis-romantizmi",
+      "number": 18,
+      "title": "German Romanticism and the Lonely Wanderer",
+      "era_en": "German Romanticism · Sublime Landscape",
+      "blurb": "Caspar David Friedrich: one lonely figure and infinite fog.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg?width=600",
+      "hero_alt": "Friedrich, Wanderer above the Sea of Fog",
+      "available": false
+    },
+    {
+      "id": "19-delakrua",
+      "number": 19,
+      "title": "French Romanticism and the Revolutionary Image",
+      "era_en": "French Romanticism · Revolutionary Allegory",
+      "blurb": "Delacroix: passion, blood, and the flag of Liberty.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg?width=600",
+      "hero_alt": "Delacroix, Liberty Leading the People",
+      "available": false
+    },
+    {
+      "id": "20-tyorner",
+      "number": 20,
+      "title": "British Romantic Landscape and the Sublime",
+      "era_en": "British Romantic Landscape",
+      "blurb": "Turner: fog, fire, and the sea dissolving into sun.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Mallord_William_Turner_-_The_Burning_of_the_Houses_of_Lords_and_Commons,_16_October_1834_-_1942.647_-_Cleveland_Museum_of_Art.jpg?width=600",
+      "hero_alt": "Turner, The Burning of the Houses of Lords and Commons",
+      "available": false
+    },
+    {
+      "id": "21-realizm",
+      "number": 21,
+      "title": "Realism and the Dignity of Labour",
+      "era_en": "Realism · Labor & Daily Life",
+      "blurb": "Courbet and Millet: the day art turned from kings to peasants.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project.jpg?width=600",
+      "hero_alt": "Millet, The Gleaners",
+      "available": false
+    },
+    {
+      "id": "22-pre-raffaellitlar",
+      "number": 22,
+      "title": "The Pre-Raphaelites and the Return to Beauty",
+      "era_en": "Pre-Raphaelites · Literary Subject",
+      "blurb": "Millais, Rossetti, and the longing to revive medieval beauty.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg?width=600",
+      "hero_alt": "Millais, Ophelia",
+      "available": false
+    },
+    {
+      "id": "23-ukiyo-e",
+      "number": 23,
+      "title": "Japanese Ukiyo-e and the Floating World",
+      "era_en": "Japanese Ukiyo-e · Woodblock Landscape",
+      "blurb": "Hokusai and the Great Wave: the Eastern gaze that astonished the West.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Great_Wave_off_Kanagawa.jpg?width=600",
+      "hero_alt": "Hokusai, The Great Wave off Kanagawa",
+      "available": false
+    },
+    {
+      "id": "24-van-gog",
+      "number": 24,
+      "title": "Post-Impressionism and the Painter as Subject",
+      "era_en": "Post-Impressionism · Self-Portrait",
+      "blurb": "Van Gogh: living nerves in every layer of paint.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/SelbstPortrait_VG2.jpg?width=600",
+      "hero_alt": "Van Gogh, Self-Portrait",
+      "available": false
+    },
+    {
+      "id": "25-sezann",
+      "number": 25,
+      "title": "Cézanne and the Geometry of Seeing",
+      "era_en": "Post-Impressionism · Still Life & Geometry",
+      "blurb": "Cézanne: an apple that opened the door to Cubism.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Cezanne_Apples_and_Oranges.jpg?width=600",
+      "hero_alt": "Cézanne, Apples and Oranges",
+      "available": false
+    },
+    {
+      "id": "26-klimt",
+      "number": 26,
+      "title": "Vienna Symbolism and the Golden Skin",
+      "era_en": "Vienna Symbolism · Allegory",
+      "blurb": "Klimt: gold leaf and eros, the last sacred oil of decadence.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg?width=600",
+      "hero_alt": "Klimt, The Kiss",
+      "available": false
+    },
+    {
+      "id": "27-fovizm",
+      "number": 27,
+      "title": "Fauvism and the Wild Colour",
+      "era_en": "Fauvism · Wild Color",
+      "blurb": "Matisse: the day a painter threw the rule book at the colour wheel.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Danse_I,_par_Henri_Matisse.jpg?width=600",
+      "hero_alt": "Matisse, La Danse",
+      "available": false
+    },
+    {
+      "id": "28-kubizm",
+      "number": 28,
+      "title": "Cubism and the Fractured View",
+      "era_en": "Cubism · Fractured Vision",
+      "blurb": "Picasso and Braque: seeing one object from five points at once.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Picasso_Three_Musicians_MoMA_2024.jpg?width=600",
+      "hero_alt": "Picasso, Three Musicians",
+      "available": false
+    },
+    {
+      "id": "29-ekspressionizm",
+      "number": 29,
+      "title": "Expressionism and the Scream of Modernity",
+      "era_en": "Expressionism · The Scream of Modernity",
+      "blurb": "Munch: the modern soul made into a single face.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg?width=600",
+      "hero_alt": "Munch, The Scream",
+      "available": false
+    },
+    {
+      "id": "30-syurrealizm",
+      "number": 30,
+      "title": "Surrealism and the Logic of Dreams",
+      "era_en": "Surrealism · Dream Logic",
+      "blurb": "Dalí, Magritte, and a world made of dreams. With its roots in Henri Rousseau.",
+      "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri_Rousseau_-_Le_R%C3%AAve_-_Google_Art_Project.jpg?width=600",
+      "hero_alt": "Henri Rousseau, The Dream",
+      "available": false
+    }
+  ]
+}

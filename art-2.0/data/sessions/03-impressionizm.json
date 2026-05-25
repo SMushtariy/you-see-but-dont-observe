@@ -1,0 +1,415 @@
+{
+  "id": "03-impressionizm",
+  "number": 3,
+  "title": "French Impressionism and the Painted Moment",
+  "reading_time": "~12 min read",
+
+  "era": {
+    "heading": "The era",
+    "label_en": "French Impressionism, c. 1860–1886",
+    "body": [
+      "Picture the morning of 15 April 1874 in Paris. On the Boulevard des Capucines, in the empty studio of a photographer named Nadar, a group of artists most people have never heard of are hanging their unsold canvases on the walls. They have all been rejected, repeatedly, by the official [[Paris Salon]]. So they have rented a room and put on a show of their own. Their names: Claude Monet, Pierre-Auguste Renoir, Camille Pissarro, Berthe Morisot, Edgar Degas, Alfred Sisley. A critic named Louis Leroy walks through, looks at a small Monet titled *Impression, Soleil Levant*, and writes a sarcastic review calling the whole group *impressionists* — meaning: not painters of real things, only of *impressions*. The name stuck. So did the movement.",
+      "[[Impressionism]] is the French art movement that runs from roughly 1860 to the late 1880s. It is the moment when European painting stopped trying to be a window onto an eternal world and started trying to be a record of how the eye actually sees in a particular minute, in a particular light. The shift sounds small. It was enormous.",
+      "Why did it happen in Paris, and why then? Three reasons. First, technology. In the 1840s, paint manufacturers started selling oil colours pre-mixed inside small collapsible metal tubes. Before that, every painter had to grind and mix pigment fresh in the studio. The tube did for painting what the bicycle did for cities: it freed it to wander. Painters could now carry oils outside and finish a whole canvas in front of the actual thing. The French called this [[en plein air]] painting, *in the open air*, and it became the heart of the movement.",
+      "Second, the railway. By the 1870s a Parisian could be on a beach in Normandy in three hours. Painters started going out to the suburbs, to Argenteuil and Pontoise and Étretat, to paint poppies and steam trains and river-boats. The subject of painting changed almost overnight from gods and history to picnics, smoke, rain on a boulevard.",
+      "Third, photography. By 1860 photography was twenty years old and getting cheaper every year. If a painter wanted to record *what something looks like*, the camera could do it faster and more accurately. So painters started chasing something the camera couldn't yet do: not the thing, but *how the thing felt to a specific human pair of eyes on a specific afternoon*. Light. Atmosphere. Vibration. Mood.",
+      "The Impressionists held eight group exhibitions between 1874 and 1886. They were mocked, ignored, and refused. They struggled to sell. [[Monet]] in his early years lived close to starvation, often borrowing money from his friend Frédéric Bazille (who was killed in the Franco-Prussian War of 1870). By the late 1880s the tide turned, helped enormously by a young dealer, Paul Durand-Ruel, who bet his career on selling them in New York. By the time Monet died in 1926 in his garden at Giverny, he was the most famous living painter on earth and Impressionism was the world's favourite art movement. It has never really stopped being so."
+    ],
+    "pull_quote": "We are not painting things. We are painting the air through which we see them.",
+    "figure": {
+      "src": "assets/sessions/03/impression-sunrise.jpg",
+      "alt": "Claude Monet, Impression, Sunrise",
+      "artist": "Claude Monet",
+      "title": "Impression, Soleil Levant (Impression, Sunrise)",
+      "year": "1872",
+      "location": "Musée Marmottan Monet, Paris",
+      "note": "The small harbour painting that, by accident, named an entire movement. Painted in Le Havre, Monet's home port."
+    }
+  },
+
+  "genre": {
+    "heading": "The genre",
+    "name_en": "Landscape painting",
+    "body": [
+      "[[Landscape painting]] — pictures whose subject is just the land, the sea, the sky, or a town — sounds like the most ordinary genre in the world today. Most of us have a landscape on a wall somewhere. But for most of European history, landscape was considered the bottom of the artistic hierarchy. Above it sat portraits, then religious paintings, then history paintings of kings and battles at the top. A serious artist might *include* a landscape behind a sitter, the way you saw mountains behind the Mona Lisa, but to paint a landscape on its own, with no story, no saint, no hero, was considered a hobbyist's pastime.",
+      "The Impressionists turned the hierarchy upside down. For them landscape became *the* serious subject — the only one big enough to record what they cared about, which was light. A train station at six in the morning, a wheat field in summer haze, a cathedral facade in the orange of sunset: these were not low subjects. They were experiments in colour and atmosphere that could occupy a painter for a lifetime. Monet would eventually paint the same haystacks twenty-five times, the same cathedral thirty times, the same lily pond two hundred and fifty times — chasing a different light each session.",
+      "Five unwritten rules guide an Impressionist landscape.",
+      "**Rule one: paint the thing in front of the thing.** Drag the easel outside. Work [[en plein air]]. Finish what you can on the spot. The studio is only for stretching canvases and storing rags.",
+      "**Rule two: paint quickly.** The light is moving. By the time you've blended a careful glaze the way Leonardo did, the world has changed. Use short, fast, almost rough brushstrokes that capture the *feel* of what's in front of you in twenty minutes, not twenty days.",
+      "**Rule three: forget the local colour.** A tree is not green. A tree on a sunny afternoon is yellow on top, orange on the lit side, blue on the shadowed side, violet underneath. Paint the colour you actually see, not the colour the brain says is there.",
+      "**Rule four: there are no black shadows.** Shadows are coloured, usually the complementary of the light source — so if the sun is gold, the shadow is blue or violet, never grey or black. Banish black from the palette.",
+      "**Rule five: forget the heroic subject.** A washerwoman on the Seine is as worthy as a king. A row of poplars at sunset is as worthy as the Annunciation. The world is full of ordinary things in extraordinary light, and the painter's job is to notice."
+    ],
+    "gallery": [
+      {
+        "src": "assets/sessions/03/water-lilies.jpg",
+        "alt": "Claude Monet, Water Lilies (1916)",
+        "artist": "Claude Monet",
+        "title": "Water Lilies (Nymphéas)",
+        "year": "1916",
+        "location": "National Museum of Western Art, Tokyo",
+        "note": "Monet spent the last thirty years of his life painting his own garden pond at Giverny. The paintings get larger and looser as his eyes start to fail."
+      },
+      {
+        "src": "assets/sessions/03/boulevard-montmartre.jpg",
+        "alt": "Camille Pissarro, The Boulevard Montmartre on a Winter Morning",
+        "artist": "Camille Pissarro",
+        "title": "The Boulevard Montmartre on a Winter Morning",
+        "year": "1897",
+        "location": "Metropolitan Museum, New York",
+        "note": "Pissarro rented a hotel room overlooking the boulevard and painted it again and again — different weather, different time of day, same view."
+      },
+      {
+        "src": "assets/sessions/03/sisley-flood.jpg",
+        "alt": "Alfred Sisley, The Flood at Port-Marly",
+        "artist": "Alfred Sisley",
+        "title": "The Flood at Port-Marly",
+        "year": "1876",
+        "location": "Musée d'Orsay, Paris",
+        "note": "A whole town under water, painted as if it were a postcard from paradise. The catastrophe is shown as a study in soft reflected light."
+      },
+      {
+        "src": "assets/sessions/03/wheatstacks.jpg",
+        "alt": "Claude Monet, Haystacks, 1890–91",
+        "artist": "Claude Monet",
+        "title": "Haystacks",
+        "year": "1890–1891",
+        "location": "Private collection",
+        "note": "One of twenty-five Monet paintings of the same two stacks of wheat in a field next to his house. The whole series is about how morning, noon, frost, and snow change a single subject."
+      },
+      {
+        "src": "assets/sessions/03/rouen-cathedral.jpg",
+        "alt": "Claude Monet, Rouen Cathedral, Façade (Sunset)",
+        "artist": "Claude Monet",
+        "title": "Rouen Cathedral, Façade (Sunset)",
+        "year": "1892–1894",
+        "location": "Musée Marmottan Monet, Paris",
+        "note": "Monet rented a room across the square from Rouen Cathedral and painted its west front thirty times, keeping each canvas on a different stretcher for a different hour of the day."
+      }
+    ],
+    "outro": [
+      "Notice the family resemblance. None of these five paintings has a story. None of them has a hero. Each is about something happening to the light — morning, noon, dusk, mist, flood — at one particular moment. Each is built from short, visible brush marks, not invisible glazes. Each has shadows that are blue or violet, not black. Once you've learned this vocabulary you will recognise it everywhere: in advertising photography, in Pixar films, in the way a thoughtful person describes a beach to you."
+    ]
+  },
+
+  "elements": {
+    "heading": "Five micro-elements",
+    "label_en": "The visual alphabet",
+    "intro": "Five techniques every Impressionist landscape uses, and you can spot in less than a minute once you've seen them named.",
+    "items": [
+      {
+        "name": "Broken brushstroke",
+        "name_en": "broken brushwork",
+        "meaning": "Short, visible, almost rough touches of unmixed colour, placed side by side rather than blended.",
+        "body": [
+          "Before the Impressionists, a finished painting was supposed to be *smooth*. The painter's hand had to disappear. Brushstrokes were a sign of an unfinished sketch, not a serious work.",
+          "The Impressionists deliberately broke this rule. They left every stroke visible. They put pure colours next to each other — yellow next to violet, orange next to blue — and let the viewer's eye do the mixing from a few steps away. Up close, the painting looks like a tangle of unrelated marks. Step back, and the marks dissolve into shimmering air.",
+          "This is more than a stylistic choice. It is a philosophy of what painting *is*. A picture is no longer the smooth illusion of a window onto the world. It is an honest record of the painter's hand, his time spent looking, and his arrangement of pigment on cloth."
+        ],
+        "figure": {
+          "src": "assets/sessions/03/water-lilies.jpg",
+          "alt": "Monet, Water Lilies — close up of brushwork",
+          "artist": "Claude Monet",
+          "title": "Water Lilies (detail)",
+          "year": "1916",
+          "location": "National Museum of Western Art, Tokyo",
+          "note": "Tap the image. Up close you see only thick stabs of paint. Step back and they form lilies, water, and reflected sky."
+        }
+      },
+      {
+        "name": "En plein air",
+        "name_en": "painting outdoors",
+        "meaning": "Finishing the painting outdoors, in front of the actual subject, in the actual light.",
+        "body": [
+          "[[En plein air]] — *in the open air* — was the practical revolution behind the visual revolution. Before the 1840s, finishing a painting on location was almost impossible: oil paint had to be mixed and stored in pig-bladders that leaked and dried out within hours. With the invention of the collapsible metal paint tube in 1841, oil paint became portable for the first time.",
+          "Within twenty years, the Impressionists had taken the tube to its logical conclusion. They walked out into wheat fields, sat on the banks of the Seine, set up easels on Normandy beaches, and painted the world as they actually saw it — wind, glare, flies and all. Monet would chase the light all day, swapping between four canvases as the sun moved.",
+          "The effect on the paintings is direct. Compare any Impressionist landscape with a studio landscape from twenty years earlier. The studio painting looks composed, tidy, lit from one careful direction. The plein-air painting feels *breezy* — the air is moving, the light flickers, the painter was clearly there."
+        ],
+        "figure": {
+          "src": "assets/sessions/03/sisley-flood.jpg",
+          "alt": "Sisley, The Flood at Port-Marly — plein air landscape",
+          "artist": "Alfred Sisley",
+          "title": "The Flood at Port-Marly (detail)",
+          "year": "1876",
+          "location": "Musée d'Orsay, Paris",
+          "note": "Sisley painted this standing at the edge of a real flood, water lapping at his boots. You can almost feel the cold."
+        }
+      },
+      {
+        "name": "Coloured shadows",
+        "name_en": "coloured shadows",
+        "meaning": "Shadows painted in blue, violet, or green — never grey or black. They are areas of *different* light, not areas of *no* light.",
+        "body": [
+          "A walk in your own garden will prove the point. Look at the shadow of a tree on a sunny day. It is not grey. It is blue, with hints of violet. Look at the shadow of a hand on a piece of white paper. Same thing. Your brain has been telling you all your life that shadows are *dark grey*. They are not. They are coloured.",
+          "Before the Impressionists, every painter from Giotto to David had been mixing a little black or brown into the shadows. The Impressionists discovered (partly by going outside and looking, partly by reading the new science of colour theory) that black does not exist in natural light. Shadows are the complementary of the light source. Gold sun → blue shadow. Pink sunset → green shadow.",
+          "Banishing black from the palette was the single most visible change in painting history since the invention of oil paint. Look at any Monet from the 1880s onward and you will see shadows in turquoise, lilac, and emerald. The world suddenly looks more alive than it had in five hundred years of European painting."
+        ],
+        "figure": {
+          "src": "assets/sessions/03/water-lilies.jpg",
+          "alt": "Monet, Water Lilies — coloured shadows",
+          "artist": "Claude Monet",
+          "title": "Water Lilies (detail)",
+          "year": "1916",
+          "location": "National Museum of Western Art, Tokyo",
+          "note": "The shadows under the lily pads are turquoise and violet — never grey. The light source is the sky above, so its complementary colours appear in the dark zones."
+        }
+      },
+      {
+        "name": "Fugitive light",
+        "name_en": "fugitive / transient light",
+        "meaning": "Capturing a single, specific moment of light — not the eternal look of a thing, but how it looked at 7:15 a.m. on a Tuesday in October.",
+        "body": [
+          "Monet became almost obsessed with this idea. He realised that a haystack at sunrise and the same haystack at sunset are, in terms of *colour and atmosphere*, two completely different paintings. So he started painting in series — twenty-five haystacks, thirty cathedrals, two-hundred-and-fifty water lilies — each canvas dedicated to one specific quality of light.",
+          "Working this way is brutally difficult. The light changes every fifteen minutes. Monet would set up four or five canvases at once, paint on each for half an hour, then move to the next as the sun moved on. By evening he had several incomplete pictures, each tied to a different time of day. The next morning he came back and continued — but only on the canvas whose light it was.",
+          "The deeper idea is more interesting than the method. A single object — a haystack, a cathedral — is not a fixed thing. It is a different object every minute, depending on the photons hitting it. The painter's job is no longer to record *what is there* but to record *what is happening to it right now*. After Monet, no honest landscape painter could go back to painting *the* tree. They had to paint *this* tree, *this* light, *this* time."
+        ],
+        "figure": {
+          "src": "assets/sessions/03/rouen-cathedral.jpg",
+          "alt": "Monet, Rouen Cathedral — sunset light",
+          "artist": "Claude Monet",
+          "title": "Rouen Cathedral, Façade (Sunset)",
+          "year": "1892–1894",
+          "location": "Musée Marmottan Monet, Paris",
+          "note": "One canvas from a series of thirty. Look up the others — same building, same angle, completely different paintings."
+        }
+      },
+      {
+        "name": "Modern subject",
+        "name_en": "modernity",
+        "meaning": "Trains, suburbs, cafés, working women, picnics, umbrellas — the ordinary visible life of the painter's own decade.",
+        "body": [
+          "Before the Impressionists, *serious* painting had grand subjects: gods, kings, battles, biblical heroes, mythological lovers. To paint a railway station was considered as ambitious as writing a poem about a sandwich.",
+          "The Impressionists rejected this hierarchy completely. They painted what they could actually see from their windows and their picnic blankets: Pissarro painting Paris boulevards from a hotel; Renoir painting Sunday dancers at the Moulin de la Galette; Monet painting the smoke and iron of the Gare Saint-Lazare. Their argument was simple. The *real life of our century* is just as worth recording as the imaginary life of the ancients. In fact it is more so, because it is *ours*.",
+          "This was an enormous social statement disguised as a painting style. It said that ordinary modern people deserve to be looked at carefully. That an umbrella on a rainy boulevard is as beautiful as a Greek goddess. That the eye of the present matters as much as the memory of the past. Most contemporary photography is still working out the consequences."
+        ],
+        "figure": {
+          "src": "assets/sessions/03/boulevard-montmartre.jpg",
+          "alt": "Pissarro, The Boulevard Montmartre on a Winter Morning",
+          "artist": "Camille Pissarro",
+          "title": "The Boulevard Montmartre on a Winter Morning (detail)",
+          "year": "1897",
+          "location": "Metropolitan Museum, New York",
+          "note": "No saints, no goddesses, no heroes. Just a wet Parisian boulevard on a grey morning. A subject inconceivable in 1860, ordinary by 1900."
+        }
+      }
+    ]
+  },
+
+  "masterpiece": {
+    "heading": "Deep dive: Impression, Sunrise",
+    "title": "Impression, Soleil Levant",
+    "artist": "Claude Monet",
+    "year": "1872",
+    "location": "Musée Marmottan Monet, Paris",
+    "label_first_impression": "First impression",
+    "label_hidden_narrative": "The hidden story",
+    "label_technical_magic": "Technical magic",
+    "label_so_what": "Why it still matters",
+    "figure": {
+      "src": "assets/sessions/03/impression-sunrise.jpg",
+      "alt": "Claude Monet, Impression, Sunrise (full painting)",
+      "artist": "Claude Monet",
+      "title": "Impression, Soleil Levant",
+      "year": "1872",
+      "location": "Musée Marmottan Monet, Paris",
+      "note": "Oil on canvas, 48 × 63 cm. Smaller than a sheet of office paper. Painted in about an hour from a hotel window in Le Havre."
+    },
+    "hotspots": [
+      { "x": 0.62, "y": 0.30, "label": "The orange sun",      "note": "If you photograph this painting in black-and-white, the sun *disappears* into the surrounding grey. Monet matched its brightness exactly to the sky. The sun feels brilliant only because of its complementary colour against the bluish dawn." },
+      { "x": 0.50, "y": 0.62, "label": "Three quick brushstrokes",   "note": "The sun's reflection on the water is three or four hasty horizontal flicks of pure orange paint. The whole effect of dancing light comes from less than a teaspoon of pigment, applied in seconds." },
+      { "x": 0.18, "y": 0.55, "label": "The boatman",         "note": "A small rowboat with a single dark figure. Almost a silhouette. Yet without it the picture has no human scale at all — it is what tells you the harbour is real and inhabited." },
+      { "x": 0.79, "y": 0.42, "label": "Industrial cranes",   "note": "Look carefully into the haze. Those vertical strokes are dockside cranes, smokestacks, and steamships. This is not a romantic dawn — it is a working industrial port at 7 a.m." },
+      { "x": 0.50, "y": 0.18, "label": "The misty sky",       "note": "There is no clear edge between sky and water; both are made of the same blue-grey washes. The whole painting hovers in a single, soft atmospheric envelope." },
+      { "x": 0.91, "y": 0.78, "label": "Caravaggio-fast",     "note": "The brushwork in the lower right is some of the loosest in the picture — barely-controlled diagonal strokes describing rippling water. Monet wanted the *feeling* of waves, not their shape." }
+    ],
+    "intro": [
+      "*Impression, Soleil Levant* hangs in the [[Musée Marmottan Monet]], a small museum in a quiet 16th-arrondissement house in Paris that most tourists never reach. It is roughly the size of an A2 sheet — much smaller than you expect. Most visitors stand in front of it for thirty seconds and walk on. That is a mistake. This is a painting that needs five minutes.",
+      "Monet painted it in 1872 from a hotel window in Le Havre, the working port on the Channel coast where he had grown up. He painted it fast — possibly in under two hours — as the sun came up through the morning mist. He had no idea, at the time, that he was about to name an entire art movement. Two years later, when his dealer asked him for a title for the exhibition catalogue, Monet shrugged: *Put down impression*. The critic Louis Leroy did the rest."
+    ],
+    "first_impression": "A small picture made almost entirely of soft blue-grey washes. A misty harbour. A red-orange sun, low and reflected on the water as three or four quick flicks of pure orange paint. In the middle distance, a small rowboat with a faint figure inside. Behind everything, the dim verticals of cranes, masts, and smokestacks. Nothing in the picture is in sharp focus. Nothing is finished in the conventional sense. The whole thing feels like a sketch that was somehow handed in as the final piece — which is exactly what it is.",
+    "hidden_narrative": "Two things lurk in the haze. First, this is not actually a romantic seascape. It is a busy industrial dawn — Le Havre was the second-largest commercial port in France, full of steam, smoke, and the noise of cranes. Monet has muffled all of that into a single atmospheric envelope, but the cranes and smokestacks are still there if you look. He is making a statement: the modern industrial port is *just as worth painting* as a Roman ruin or a Tuscan vineyard. Second, there is a piece of optical mischief at the heart of the picture. In 2014 the physicist Donald Olson worked out that the painting can be dated precisely to about 7:35 a.m. on 13 November 1872, based on the position of the sun and the state of the tide. Monet was not painting a generic *sunrise*. He was painting a specific Tuesday morning. That precision is part of what makes the picture honest. It is not an idea of dawn. It is a record of one.",
+    "technical_magic": "Five technical decisions. **One:** the sun is not actually any brighter than the sky around it — in greyscale they're identical. The sun *feels* brilliant only because pure orange and pale blue are complementary colours, so they intensify each other. **Two:** the entire painting is made of less than a dozen pigments. Monet has trained himself to do everything with the bare minimum. **Three:** the brushwork in the lower right corner — the reflections on the water — is almost recklessly loose. Three or four diagonal flicks suggest a whole shimmering surface. **Four:** there is no clear horizon. Sea, sky and mist merge into one continuous wash, which makes the whole painting feel suspended in air. **Five:** the size. At 48 × 63 cm it is tiny — easily portable, painted from a single window. Monet is not trying to overwhelm the viewer with scale. He is trying to record one specific moment in front of one specific window, on one specific morning, and let that be enough.",
+    "so_what": "This little painting did several enormous things at once. It named the movement that would dominate Western art for the next thirty years. It legitimised the idea that a painting could be *of a moment*, not of an eternal subject. It was the first masterpiece to argue that an unfinished, sketchy surface could be the *correct* surface — that smoothness was a habit, not a virtue. And it was the seed of every art movement that has come since: Post-Impressionism, Fauvism, Cubism, Abstract Expressionism, every painter who has trusted their own eye over the rules of an academy. In 1985 the painting was stolen from the Musée Marmottan in a daylight armed robbery. It was recovered five years later in Corsica. While it was gone the museum hung an empty frame in its place. People came anyway, to look at the empty frame, knowing what had been there. That is the truest measure of why this painting still matters: even its absence is famous."
+  },
+
+  "glossary": [
+    {
+      "term": "Impressionism",
+      "definition": "The French art movement, c. 1860–1886, that abandoned smooth, narrative painting in favour of capturing the immediate visual impression of a moment — its light, atmosphere, and colour. Named, by accident, after Monet's *Impression, Soleil Levant*."
+    },
+    {
+      "term": "En plein air",
+      "definition": "French for *in the open air*. The practice of painting outdoors, on location, in front of the actual subject. Made possible by the invention of pre-mixed paint sold in collapsible metal tubes in the 1840s."
+    },
+    {
+      "term": "Landscape painting",
+      "definition": "Pictures whose subject is the land, sea, or sky. Considered a low genre in the European hierarchy until the 19th century. The Impressionists turned it into the most ambitious genre of all."
+    },
+    {
+      "term": "Paris Salon",
+      "definition": "The official annual exhibition of the French Academy of Fine Arts. From the 17th century until the late 19th, getting into the Salon was the only path to a serious painting career in France. Repeatedly rejected the Impressionists, who eventually held their own exhibitions in defiance."
+    },
+    {
+      "term": "Monet",
+      "term_en": "Claude Monet",
+      "definition": "French painter, 1840–1926. The central figure of Impressionism and its longest-lived practitioner. Painted his garden pond at Giverny obsessively for the last thirty years of his life, even as his eyesight failed to cataracts."
+    },
+    {
+      "term": "Salon des Refusés",
+      "definition": "The *Salon of the Rejected*. An 1863 alternative exhibition ordered by Emperor Napoleon III to display works rejected by the official Salon. The first sign that the official art world's grip was breaking, and a direct predecessor of the 1874 Impressionist show."
+    },
+    {
+      "term": "Camille Pissarro",
+      "definition": "French painter, 1830–1903. Born in the Danish West Indies. The eldest of the Impressionists and the only one to exhibit at all eight of the group's exhibitions. Both anarchist and grandfather of the group."
+    },
+    {
+      "term": "Alfred Sisley",
+      "definition": "British-French painter, 1839–1899. Born in Paris to British parents. The purest landscape painter of the Impressionists — he painted almost nothing else. Died poor; his work was rediscovered after his death."
+    },
+    {
+      "term": "Berthe Morisot",
+      "definition": "French painter, 1841–1895. The only woman among the founding Impressionists. Painted domestic and feminine subjects most of her male colleagues ignored. Married Eugène Manet, brother of Édouard."
+    },
+    {
+      "term": "Complementary colours",
+      "definition": "Pairs of colours that sit opposite each other on the colour wheel — red and green, orange and blue, yellow and violet. Placed side by side they intensify each other. Impressionists used this to make sunny pictures vibrate."
+    },
+    {
+      "term": "Giverny",
+      "definition": "A small village 75 km northwest of Paris where Monet bought a house in 1883 and built the famous water-lily garden. Still open to visitors today; effectively a Monet pilgrimage site."
+    },
+    {
+      "term": "Le Havre",
+      "definition": "Industrial port city on the Normandy coast, where Monet grew up and where he painted *Impression, Sunrise* in 1872. The largest commercial harbour in northern France at the time, full of steam, cranes, and shipping."
+    },
+    {
+      "term": "Musée Marmottan Monet",
+      "definition": "A small museum in the 16th arrondissement of Paris housing the largest collection of Monet paintings in the world, including *Impression, Sunrise* and several of the late water lilies. Quiet compared to the Louvre. Always worth the metro ride."
+    },
+    {
+      "term": "Post-Impressionism",
+      "definition": "The generation of painters (Van Gogh, Cézanne, Gauguin, Seurat) who came of age in the 1880s and 1890s and built on Impressionism in different directions — toward emotion, geometry, decoration, or science. We'll cover them in later sessions."
+    },
+    {
+      "term": "Series painting",
+      "definition": "Monet's habit, from about 1890, of painting the same subject — haystacks, poplars, the Rouen Cathedral, water lilies — repeatedly in different light. A way of arguing that an object is not a fixed thing, but a different thing every minute of the day."
+    }
+  ],
+
+  "quiz_gate_title": "How well did today's journey land?",
+  "quiz_gate_text": "Ten quick questions to lock it in. No grading — just a chance to see what stuck.",
+  "quiz_gate_button": "Start the test",
+
+  "quiz": [
+    {
+      "question": "Where does the name *Impressionism* come from?",
+      "options": [
+        "A manifesto written by the founders",
+        "The title of a Pissarro group exhibition",
+        "A sarcastic review by Louis Leroy",
+        "A French government classification scheme"
+      ],
+      "correct": 2,
+      "explanation": "In 1874 the critic Louis Leroy walked through the group's first exhibition, mocked Monet's *Impression, Soleil Levant*, and called the painters *impressionists*. The insult stuck."
+    },
+    {
+      "question": "What practical invention made *en plein air* painting possible?",
+      "options": [
+        "The folding wooden easel for travel",
+        "Cheap manufactured rolls of linen canvas",
+        "The synthetic dye process from coal",
+        "The collapsible metal paint tube"
+      ],
+      "correct": 3,
+      "explanation": "Before 1841, oil paint was mixed fresh in the studio and stored in leaky pig-bladders. The metal tube made paint portable for the first time, freeing artists to finish work outdoors."
+    },
+    {
+      "question": "What is the Impressionists' view on black shadows?",
+      "options": [
+        "Used black only at night for realism",
+        "Banished black — shadows are always coloured",
+        "Used black mixed with violet in shadows",
+        "Used black in skies but not in shadows"
+      ],
+      "correct": 1,
+      "explanation": "Shadows in nature aren't grey or black — they're the complementary colour of the light source. The Impressionists banned black from the palette and painted blue, violet, and green shadows."
+    },
+    {
+      "question": "Why did Monet paint the same haystack 25 times?",
+      "options": [
+        "He needed copies for several wealthy buyers",
+        "Each light condition is a different painting",
+        "He was perfecting one ideal composition",
+        "His patrons demanded matching sets of views"
+      ],
+      "correct": 1,
+      "explanation": "Monet's *series paintings* argue that a haystack at dawn and the same haystack at dusk are different objects. The subject of painting becomes the light, not the thing."
+    },
+    {
+      "question": "Why did landscape painting rise in status under Impressionism?",
+      "options": [
+        "Religious art was suddenly banned in France",
+        "Wealthy buyers preferred small portable pictures",
+        "Train travel made the countryside fashionable",
+        "It was the right scale to study real light"
+      ],
+      "correct": 3,
+      "explanation": "For the Impressionists, landscape was the only subject big enough to record what they cared about: how light, weather, and atmosphere change a scene moment by moment."
+    },
+    {
+      "question": "Which subject would an Impressionist paint?",
+      "options": [
+        "An umbrella on a wet boulevard",
+        "A Greek goddess in a marble temple",
+        "Napoleon crossing the Alps on horseback",
+        "Christ raising Lazarus from the dead"
+      ],
+      "correct": 0,
+      "explanation": "The Impressionists rejected the old hierarchy of grand mythological and religious subjects. They argued that an ordinary moment of modern life was just as worthy as any ancient hero."
+    },
+    {
+      "question": "Why are Impressionist brushstrokes left visible?",
+      "options": [
+        "The artists worked too quickly for blending",
+        "The honest record of the painter's hand matters",
+        "Wet paint dried before it could be smoothed",
+        "Buyers preferred the unfinished sketch look"
+      ],
+      "correct": 1,
+      "explanation": "Before Impressionism, brushstrokes were a sign of an unfinished work. The Impressionists kept them visible on purpose — the painting honestly records the painter's hand and time looking."
+    },
+    {
+      "question": "Where is *Impression, Sunrise* set?",
+      "options": [
+        "A misty pond in Monet's Giverny garden",
+        "A picnic on the banks of the Seine",
+        "The harbour of Le Havre in Normandy",
+        "A summer wheat field near Argenteuil"
+      ],
+      "correct": 2,
+      "explanation": "Le Havre, the industrial port on the Channel coast where Monet grew up. He painted it from a hotel window at sunrise in November 1872."
+    },
+    {
+      "question": "Hidden in the haze of *Impression, Sunrise* are what?",
+      "options": [
+        "Roman ruins and ancient marble columns",
+        "Fishing nets and small wooden cottages",
+        "A passing flock of migrating sea birds",
+        "Cranes, masts, and industrial smokestacks"
+      ],
+      "correct": 3,
+      "explanation": "The painting is not a romantic dawn — it's a working industrial port at 7 a.m. Look into the soft mist and you'll see dockside cranes, smokestacks, and steamships."
+    },
+    {
+      "question": "How long did the Impressionists struggle commercially?",
+      "options": [
+        "Until the late 1880s, then Durand-Ruel saved them",
+        "Just one year — instant success after 1874",
+        "Forever — most died poor and unrecognised",
+        "Only Monet sold; everyone else was forgotten"
+      ],
+      "correct": 0,
+      "explanation": "For most of the 1870s and 1880s they were mocked, refused, and barely sold. The dealer Paul Durand-Ruel changed the tide by selling them aggressively in New York from 1886 onward."
+    }
+  ]
+}
