@@ -439,11 +439,11 @@ figure.art figcaption strong { color: var(--ink); font-style: normal; font-weigh
   box-shadow: var(--shadow);
 }
 .element h3 {
-  font-family: var(--serif);
+  font-family: var(--sans-serif);
   font-size: 24px;
   margin: 0 0 4px;
 }
-.element h3 em { font-style: italic; color: var(--muted); font-weight: 400; font-size: 16px; }
+.element h3 em { font-style: bold; color: var(--muted); font-weight: 400; font-size: 16px; }
 .element .elem-meaning {
   font-size: 16px;
   color: var(--ink-soft);
@@ -513,7 +513,7 @@ figure.art figcaption strong { color: var(--ink); font-style: normal; font-weigh
   padding: 10px 14px;
   border-left: 3px solid var(--gold);
   background: var(--bg);
-  font-size: 14.5px;
+  font-size: 16px;
   color: var(--ink-soft);
   display: none;
 }
