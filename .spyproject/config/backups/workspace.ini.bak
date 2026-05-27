@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['art-2.0\\css\\style.css', 'art-2.0\\index.html', 'art-2.0\\review.html', 'art-2.0\\session.html']
+recent_files = ['art-2.0\\css\\style.css', 'art-2.0\\index.html', 'art-2.0\\review.html', 'art-2.0\\session.html', 'art-2.0\\README.md']
 
 [main]
 version = 0.2.0
